@@ -1,6 +1,5 @@
-import { promises as fs } from "node:fs";
-import { join } from "node:path";
-import { COUNTRIES } from "./countries";
+import type { DB } from "../helpers/common.js";
+import { stringDiff } from "../helpers/stringDiff.js";
 
 export interface Countries {
   [countryCode: string]: {
@@ -9,11 +8,28 @@ export interface Countries {
   };
 }
 
-export interface DB {
-  [countryCode: string]: {
-    [signCode: string]: string[];
-  };
-}
+export const COUNTRIES: Countries = {
+  AU: {
+    wikiPage: "Road signs in Australia",
+    regex: /^(?<image>File:.+)\|\((?<code>[^)]+)\)/gm,
+  },
+  DE: {
+    wikiPage: "Road signs in Germany",
+    regex: /^(?<image>File:.+)\|'''Sign (?<code>[^']+)'''/gm,
+  },
+  NL: {
+    wikiPage: "Road signs in the Netherlands",
+    regex: /^(?<image>File:.+)\|(?<code>[^\n :]+):/gm,
+  },
+  NZ: {
+    wikiPage: "Road signs in New Zealand",
+    regex: /^(?<image>File:.+)\|\((\[https[^ ]+ )?(?<code>[^)\]]+)]?\)/gm,
+  },
+  US: {
+    wikiPage: "Road signs in the United States",
+    regex: /^(?<image>File:MUTCD (?<code>.+).svg)\|/gm,
+  },
+};
 
 interface WikimediaApiResponse {
   query: {
@@ -56,12 +72,13 @@ async function getWikipediaPages(pageNames: string[]) {
   return wikiMarkup;
 }
 
-function parseWikiPage(wikiMarkup: string, regex: RegExp): DB[string] {
+function parseWikiPage(wikiMarkup: string, regex: RegExp) {
   const matches = [...wikiMarkup.matchAll(regex)];
-  const output: DB[string] = {};
+  const output: { [code: string]: string[] } = {};
   for (const match of matches) {
     const { code, image } = match.groups!;
-    for (const subCode of code.split("/")) {
+    for (const _subCode of code.split("/")) {
+      const subCode = _subCode.toUpperCase();
       output[subCode] ||= [];
       output[subCode].push(getCommonsThumbnailLink(image));
     }
@@ -69,26 +86,26 @@ function parseWikiPage(wikiMarkup: string, regex: RegExp): DB[string] {
   return output;
 }
 
-async function main() {
+export async function fetchFromWikimedia(output: DB) {
   const wikipediaPageNames = Object.values(COUNTRIES).map(
     (country) => country.wikiPage,
   );
 
   const wikipediaPages = await getWikipediaPages(wikipediaPageNames);
 
-  const output: DB = {};
-
   for (const countryCode in COUNTRIES) {
     const { wikiPage, regex } = COUNTRIES[countryCode];
     const wikiPageContent = wikipediaPages[wikiPage];
 
-    output[countryCode] = parseWikiPage(wikiPageContent, regex);
+    output[countryCode] ||= {};
+    for (const [code, urls] of Object.entries(
+      parseWikiPage(wikiPageContent, regex),
+    )) {
+      output[countryCode][code] ||= {
+        name: undefined,
+        docs: undefined,
+        urls: stringDiff(urls),
+      };
+    }
   }
-
-  await fs.writeFile(
-    join(__dirname, "../data/index.json"),
-    JSON.stringify(output, null, 2),
-  );
 }
-
-main();

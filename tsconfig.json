@@ -3,7 +3,10 @@
     "noEmit": true,
     "strict": true,
     "target": "esnext",
-    "lib": ["esnext", "dom"]
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "lib": ["esnext"],
+    "resolveJsonModule": true
   },
   "include": ["scripts"]
 }
