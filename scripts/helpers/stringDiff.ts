@@ -26,7 +26,10 @@ export function stringDiff(strings: string[]) {
   return Object.fromEntries(
     strings.map((str) => [
       // also trim leading/trailing punctuation
-      str.slice(start, -end).replaceAll(/^[()_]+|[()_]+$/g, ""),
+      str
+        .slice(start, -end)
+        .replaceAll(/^[()_]+|[()_]+$/g, "")
+        .toUpperCase(),
       str,
     ]),
   );

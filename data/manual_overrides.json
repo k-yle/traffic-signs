@@ -1,1 +1,96 @@
-{}
+{
+  "AU": {
+    "R2-4N": {
+      "urls": {
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-4N.svg"
+      }
+    },
+    "R2-6": {
+      "urls": {
+        "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-6-L.svg",
+        "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-6-R.svg"
+      }
+    },
+    "R2-6N": {
+      "urls": {
+        "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-6N-L.svg",
+        "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-6N-R.svg"
+      }
+    },
+    "NSW:LightRail:FixedRed": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/f7d15a09-9dd9-4883-9078-697631cc057a"
+      }
+    },
+    "NSW:LightRail:U": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/240b1b7c-28c2-4932-9306-8ae41f87c543"
+      }
+    },
+    "NSW:LightRail:D": {
+      "urls": {
+        "": ""
+      }
+    },
+    "NSW:LightRail:LM": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/c0b790d3-5e3f-4e0f-accd-e41944524cbb"
+      }
+    },
+    "NSW:LightRail:SL": {
+      "urls": {
+        "": ""
+      }
+    },
+    "NSW:LightRail:CS": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/d54f1532-7f03-4025-864e-14578fa2250d"
+      }
+    },
+    "NSW:LightRail:BUS": {
+      "urls": {
+        "": ""
+      }
+    },
+    "NSW:LightRail:RTS": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/f19b4f94-859e-4b77-a5d7-b8187a4dbf55"
+      }
+    },
+    "NSW:LightRail:SZ_Ends": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/82730963-3406-4def-b5d7-3efec919213d"
+      }
+    },
+    "NSW:LightRail:RaiseOHW": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/5b56feb6-c7d9-46d0-ad98-4129cc651a4c"
+      }
+    },
+    "NSW:LightRail:LowerOHW": {
+      "urls": {
+        "": ""
+      }
+    },
+    "NSW:LightRail:RaiseOESS": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/e9d7f18f-cba3-4d74-bd63-516c3b177b00"
+      }
+    },
+    "NSW:LightRail:LowerOESS": {
+      "urls": {
+        "": ""
+      }
+    },
+    "NSW:LightRail:RaiseAPS": {
+      "urls": {
+        "": ""
+      }
+    },
+    "NSW:LightRail:LowerAPS": {
+      "urls": {
+        "": "https://github.com/k-yle/traffic-signs/assets/16009897/975a4d27-c49e-4bc4-aa77-7bb1210a363b"
+      }
+    }
+  }
+}

@@ -3,16 +3,18 @@ import path from "node:path";
 import deepmerge from "deepmerge";
 import { fetchFromWikimedia } from "./sources/wikimedia.js";
 import type { DB } from "./helpers/common.js";
+import { fetchFromTfNSW } from "./sources/AU-tfnsw.js";
 
 async function main() {
   let database: DB = {};
 
   await fetchFromWikimedia(database);
+  await fetchFromTfNSW(database);
 
   // add custom overrides
   const overides = JSON.parse(
     await fs.readFile(
-      path.join(import.meta.dirname, "../data/index.json"),
+      path.join(import.meta.dirname, "../data/manual_overrides.json"),
       "utf8",
     ),
   );
