@@ -4,12 +4,14 @@ import deepmerge from "deepmerge";
 import { fetchFromWikimedia } from "./sources/wikimedia.js";
 import type { DB } from "./helpers/common.js";
 import { fetchFromTfNSW } from "./sources/AU-tfnsw.js";
+import { fetchFromWakaKotahi } from "./sources/NZ-waka-kotahi.js";
 
 async function main() {
   let database: DB = {};
 
   await fetchFromWikimedia(database);
   await fetchFromTfNSW(database);
+  await fetchFromWakaKotahi(database);
 
   // add custom overrides
   const overides = JSON.parse(

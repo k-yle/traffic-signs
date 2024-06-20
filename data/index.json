@@ -14565,13 +14565,19 @@
       }
     },
     "R1-2": {
+      "name": "Speed limit changeable – black figures on white (R) background",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/785?category=677&start=30",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R1-2.1_(60).gif"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R1-2.1_(60).gif",
+        "RS1C": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS1C-Speed-limit-changeable.gif"
       }
     },
     "R1-2.1": {
+      "name": "Speed limit variable – white or yellow figures on black background",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/784?category=677&start=10",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R1-2.1_(60).svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R1-2.1_(60).svg",
+        "RS1V": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS1V-Speed-limit-variable.gif"
       }
     },
     "R1-3": {
@@ -14621,13 +14627,19 @@
       }
     },
     "R1-5.1": {
+      "name": "blue Threshold option A urban/urban",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/787?category=677&start=10",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand,_RS51-Threshold-version-A-urban-urban-nolabels_copy.png"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand,_RS51-Threshold-version-A-urban-urban-nolabels_copy.png",
+        "RS51": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS51-Blue-Threshold-option-A-urban-urban.gif"
       }
     },
     "R1-5.2": {
+      "name": "green Threshold option A rural/urban",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/789?category=677&start=10",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:RS51-Threshold-version-B-urban-urban-nolabels_copy.png"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:RS51-Threshold-version-B-urban-urban-nolabels_copy.png",
+        "RS52": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS52-Green-Threshold-option-A-rural-urban.gif"
       }
     },
     "R2-1": {
@@ -14653,8 +14665,11 @@
       }
     },
     "R2-2.4": {
+      "name": "Give Way - supplementary - left turning traffic",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/761?category=677&start=20",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R2-2.4.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R2-2.4.svg",
+        "RP74 ": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R2-Give-Way-Left-Turning-Traffic.gif"
       }
     },
     "R2-2.5": {
@@ -14686,8 +14701,11 @@
       }
     },
     "R2-6.2": {
+      "name": "Stop Here on Red Signal",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/799?category=677&start=10",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R2-6.2.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R2-6.2.svg",
+        "RP62": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RP62-Stop-here-on-red-signal.gif"
       }
     },
     "R2-7": {
@@ -14781,8 +14799,11 @@
       }
     },
     "R3-7.1": {
+      "name": "Wrong way – go back",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/802?category=677&start=30",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R3-7.1.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R3-7.1.svg",
+        "RD41": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RD41-Wrong-way-go-back.gif"
       }
     },
     "R3-8": {
@@ -14835,8 +14856,11 @@
       }
     },
     "R3-13.3": {
+      "name": "Truck mounted attenuator display (diagonal lit arrow above RD6 disc)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/803?category=677&start=10",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R3-13.3.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R3-13.3.svg",
+        "RD6T": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R3-13.3-Truck-mounted-attenuator-display-A-B-C.png"
       }
     },
     "R4-1": {
@@ -14857,8 +14881,11 @@
       }
     },
     "R4-4": {
+      "name": "Downward facing arrow (generally lit)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/807?category=677&start=20",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_Lane_Control_R4-4_(Alternative).png"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_Lane_Control_R4-4_(Alternative).png",
+        "RL3S": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RL3S-Down-arrow.gif"
       }
     },
     "R4-4ALT": {
@@ -14882,8 +14909,11 @@
       }
     },
     "R4-6": {
+      "name": "Diagonal cross (generally lit)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/805?category=677&start=20",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_Lane_Control_R4-6.png"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_Lane_Control_R4-6.png",
+        "RL3N": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RL3N-Diag-cross.gif"
       }
     },
     "R4-7": {
@@ -14913,8 +14943,11 @@
       }
     },
     "R4-10": {
+      "name": "Heavy vehicle lane [truck symbol]",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/815?category=677&start=20",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-10.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-10.svg",
+        "RLC1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RLC1-Heavy-vehicle-lane.gif"
       }
     },
     "R4-11": {
@@ -14941,8 +14974,11 @@
       }
     },
     "R4-12.1": {
+      "name": "Emergency Stopping Lane - specified time",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/810?category=677&start=20",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-12.1.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-12.1.svg",
+        "RL52": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RL52-Emergency-stopping-lane-specified-time.gif"
       }
     },
     "R4-12.2": {
@@ -14951,15 +14987,21 @@
       }
     },
     "R4-13": {
+      "name": "Signal bypass lane – do not stop for signals",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/811?category=677&start=10",
       "urls": {
         "2": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-13_(T2).svg",
-        "3": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-13_(T3).svg"
+        "3": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-13_(T3).svg",
+        "RL61": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RL61-Signal-bypass-lane-do-not-stop.gif"
       }
     },
     "R4-13.1": {
+      "name": "Signal bypass lane – signals do not apply",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/812?category=677&start=20",
       "urls": {
         "2": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-13.1_(T2).svg",
-        "3": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-13.1_(T3).svg"
+        "3": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R4-13.1_(T3).svg",
+        "RL62": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RL62-Signal-bypass-lane-signals-do-not-apply.gif"
       }
     },
     "R4-13.2": {
@@ -15060,8 +15102,11 @@
       }
     },
     "R5-7.2": {
+      "name": "Class I until `Date`",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/834?category=677&start=40",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-7.2.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-7.2.svg",
+        "RJI1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJI1-Class-1-until-date.gif"
       }
     },
     "R5-8": {
@@ -15071,23 +15116,35 @@
       }
     },
     "R5-10": {
+      "name": "Axle limit",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/822?category=677&start=50",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-10.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-10.svg",
+        "RJ53": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ53-Axle-limit.gif"
       }
     },
     "R5-13A": {
+      "name": "No cruising zone",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/828?category=677&start=50",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-13A.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-13A.svg",
+        "RJ81": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ81-No-cruising-zone.gif"
       }
     },
     "R5-13.1A": {
+      "name": "No cruising zone begins",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/829?category=677&start=40",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-13.1A.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-13.1A.svg",
+        "RJ82": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ82-No-cruising-zone-begins.gif"
       }
     },
     "R5-13.2A": {
+      "name": "No cruising zone ends",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/830?category=677&start=40",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-13.2A.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R5-13.2A.svg",
+        "RJ83": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ83-No-cruising-zone-ends.gif"
       }
     },
     "R7-1": {
@@ -15101,8 +15158,11 @@
       }
     },
     "R7-1.1": {
+      "name": "Use Left Lane Unless Passing",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/809?category=677&start=20",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R7-1.1.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R7-1.1.svg",
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/Use-left-lane-unless-passing-white.gif"
       }
     },
     "R7-2": {
@@ -15550,11 +15610,14 @@
       }
     },
     "A41-3": {
+      "name": "Road classification construction zone arrow pointing left",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/639?category=966&start=20",
       "urls": {
         "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-3L.svg",
         "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-3R.svg",
         "L_(OBSOLETE": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-3L_(obsolete).svg",
-        "R_(OBSOLETE": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-3R_(obsolete).svg"
+        "R_(OBSOLETE": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-3R_(obsolete).svg",
+        "AT1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/r06-04-02.gif"
       }
     },
     "A41-4": {
@@ -15573,23 +15636,35 @@
       }
     },
     "A40-7": {
+      "name": "Shared Zone",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/778?category=966&start=0",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A40-7.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A40-7.svg",
+        "AB5": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A40-Shared-Zone.gif"
       }
     },
     "A41-1": {
+      "name": "Motorway",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/892?category=966&start=40",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-1.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-1.svg",
+        "AMM": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AMM-Motorway.gif"
       }
     },
     "A41-1.1": {
+      "name": "Motorway Begins",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/893?category=966&start=30",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-1.1.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-1.1.svg",
+        "AMM1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AMM1-Motorway-Begins.gif"
       }
     },
     "A41-1.2": {
+      "name": "Motorway ends [xx] m",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/894?category=966&start=30",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-1.2.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-1.2.svg",
+        "AMM2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AMM2-Motorway-Ends-XX-m.gif"
       }
     },
     "A41-1.3": {
@@ -15599,18 +15674,27 @@
       }
     },
     "A41-2": {
+      "name": "Expressway",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/897?category=966&start=40",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-2.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-2.svg",
+        "AME": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AME-Expressway.gif"
       }
     },
     "A41-2.1": {
+      "name": "Expressway Begins",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/898?category=966&start=40",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-2.1.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-2.1.svg",
+        "AME1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AME1-Expressway-Begins.gif"
       }
     },
     "A41-2.2": {
+      "name": "Expressway Ends [xx] m",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/899?category=966&start=30",
       "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-2.2.svg"
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_A41-2.2.svg",
+        "AME2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AME2-Expressway-Ends-XX-m.gif"
       }
     },
     "A41-2.3": {
@@ -17416,6 +17500,1491 @@
       "urls": {
         "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_W20-2.1-L.svg",
         "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_W20-2.1-R.svg"
+      }
+    },
+    "A22-3": {
+      "name": "[service] [service] [service] [service] [distance] km chevron facing right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/920?category=1031&start=0",
+      "urls": {
+        "MD4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MD4R-4-Services-Chevron-XX-km-Right.gif",
+        "MD4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MD4L-4-Services-Chevron-XX-km-Left.gif",
+        "MD3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MD3R-3-Services-Chevron-XX-km-Right.gif",
+        "MD2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MD2L-2-Services-Chevron-XX-km-Left.gif",
+        "MD1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MD1L-Service-Chevron-XX-km-Left.gif",
+        "MD3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MD3L-3-Services-Chevron-XX-km-Left.gif",
+        "MD2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MD2R-2-Services-Chevron-XX-km-Right.gif",
+        "MD1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MD1R-Service-Chevron-XX-km-Right.gif"
+      }
+    },
+    "A22-2B": {
+      "name": "Position, rectangular type, four services, arrow facing right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/739?category=1031&start=0",
+      "urls": {
+        "ME4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ME4R-4-Services-Arrow-Right.gif",
+        "ME3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ME3R-3-Services-Arrow-Right.gif",
+        "ME2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ME2R-2-Services-Arrow-Right.gif",
+        "ME4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ME4L-4-Services-Arrow-Left.gif",
+        "ME3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ME3L-3-Services-Arrow-Left.gif",
+        "ME2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ME2L-2-Services-Arrow-Left.gif"
+      }
+    },
+    "A22-1B": {
+      "name": "Position, rectangular type, one service, arrow facing left",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/732?category=1031&start=0",
+      "urls": {
+        "ME1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ME1L-Service-Arrow-Left.gif",
+        "ME1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ME1R-Service-Arrow-Right.gif"
+      }
+    },
+    "A22-2": {
+      "name": "Position, chevron type, four services, chevron facing left",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/730?category=1031&start=0",
+      "urls": {
+        "MC4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MC4L-4-Services-Chevron-Left.gif",
+        "MC3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MC3L-3-Services-Chevron-Left.gif",
+        "MC2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MC2R-2-Services-Chevron-Right.gif",
+        "MC4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MC4R-4-Services-Chevron-Right.gif",
+        "MC3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MC3R-3-Services-Chevron-Right.gif",
+        "MC2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MC2L-2-Services-Chevron-Left.gif"
+      }
+    },
+    "A22-1": {
+      "name": "Position, chevron type, one service, chevron facing right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/724?category=1031&start=10",
+      "urls": {
+        "MC1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MC1R-Service-Chevron-Right.gif",
+        "MC1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MC1L-Service-Chevron-Left.gif"
+      }
+    },
+    "A21-4": {
+      "name": "Advance, services on side road, four services on left",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/721?category=1031&start=10",
+      "urls": {
+        "MB4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MB4L-4-Services-Turn-Left-XX-m.gif",
+        "MB4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MB4R-4-Services-Turn-Right-XX-m.gif",
+        "MB3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MB3R-3-Services-Turn-Right-XX-m.gif",
+        "MB3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MB3L-3-Services-Turn-Left-XX-m.gif",
+        "MB2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MB2R-2-Services-Turn-Right-XX-m.gif",
+        "MB2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MB2L-2-Services-Turn-Left-XX-m.gif"
+      }
+    },
+    "A21-3": {
+      "name": "Advance, services on side road, one service on right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/716?category=1031&start=10",
+      "urls": {
+        "MB1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MB1R-Service-Turn-Right-XX-m.gif",
+        "MB1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MB1L-Service-Turn-Left-XX-m.gif"
+      }
+    },
+    "A21-2": {
+      "name": "Advance, services adjacent to road, four services on right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/714?category=1031&start=20",
+      "urls": {
+        "MA4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MA4R-4-Services-XX-m-on-Right.gif",
+        "MA4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MA4L-4-Services-XX-m-on-Left.gif",
+        "MA3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MA3R-3-Services-XX-m-on-Right.gif",
+        "MA2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MA2L-2-Services-XX-m-on-Left.gif",
+        "MA3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MA3L-3-Services-XX-m-on-Left.gif",
+        "MA2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MA2R-2-Services-XX-m-on-Right.gif"
+      }
+    },
+    "A21-5": {
+      "name": "Next / [service] / [distance] km",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/912?category=1031&start=30",
+      "urls": {
+        "MAN": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MAN-Next-Service-XX-km.gif"
+      }
+    },
+    "A21-1": {
+      "name": "Advance, services adjacent to road, one service on right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/708?category=1031&start=40",
+      "urls": {
+        "MA1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MA1R-Service-XX-m-on-Right.gif",
+        "MA1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/MA1L-Service-XX-m-on-Left.gif"
+      }
+    },
+    "A32-3B": {
+      "name": "Tourist Feature Arrow Left (2 Symbols)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1128?category=1032&start=0",
+      "urls": {
+        "VJ2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-3.2-Tourist-Feature-Arrow-Left-900x900.gif",
+        "VJ1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-3.1-Tourist-Feature-Arrow-Right-450x900.gif",
+        "VJ4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-3.4-Tourist-Feature-Arrow-Left-900x1200.gif",
+        "VJ3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-3.3-Tourist-Feature-Arrow-Right-900x1200.gif",
+        "VJ2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-3.2-Tourist-Feature-Arrow-Right-900x900.gif",
+        "VJ1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-3.1-Tourist-Feature-Arrow-Left-450x900.gif",
+        "VJ4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-3.4-Tourist-Feature-Arrow-Right-900x1200.gif",
+        "VJ3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-3.3-Tourist-Feature-Arrow-Left-900x1200.gif"
+      }
+    },
+    "A32-2B": {
+      "name": "Tourist X km Chevron Facing Right (4 Symbols)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1125?category=1032&start=0",
+      "urls": {
+        "VI4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-2.4-Tourist-X-km-Chevron-Right-2400x450.gif",
+        "VI4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-2.4-Tourist-X-km-Chevron-Left-2400x450.gif",
+        "VI3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-2.3-Tourist-X-km-Chevron-Right-2100x450.gif",
+        "VI2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-2.2-Tourist-X-km-Chevron-Right-1700x450.gif",
+        "VI1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-2.1-Tourist-X-km-Chevron-Right-1300x450.gif",
+        "VI3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-2.3-Tourist-X-km-Chevron-Left-2100x450.gif",
+        "VI2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-2.2-Tourist-X-km-Chevron-Left-1700x450.gif",
+        "VI1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-2.1-Tourist-X-km-Chevron-Left-1300x450.gif"
+      }
+    },
+    "A32-1B": {
+      "name": "Tourist Attraction Chevron Facing Right (4 Symbols)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1117?category=1032&start=0",
+      "urls": {
+        "VH4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-1.4-Tourist-Right-2000x450.gif",
+        "VH2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-1.2-Tourist-Left-1200x450.gif",
+        "VH1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-1.1-Tourist-Right.gif",
+        "VH4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-1.4-Tourist-Left-2000x450.gif",
+        "VH3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-1.3-Tourist-Right-1600x450.gif",
+        "VH3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-1.3-Tourist-Left-1600x450.gif",
+        "VH2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-1.2-Tourist-Right-1200x450.gif",
+        "VH1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A32-1.1-Tourist-Left.gif"
+      }
+    },
+    "A31-3A": {
+      "name": "Advance Tourist Turn Left /Distance/(3 features)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1104?category=1032&start=10",
+      "urls": {
+        "VB3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.3A-Advance-Tourist-TURN-LEFT-1200x1050.gif",
+        "VB2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.2A-Advance-Tourist-TURN-RIGHT-1200x900.gif",
+        "VB2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.2A-Advance-Tourist-TURN-LEFT-1200x900.gif",
+        "VB4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.4A-Advance-Tourist-TURN-RIGHT-1400x1200.gif",
+        "VB4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.4A-Advance-Tourist-TURN-LEFT-1400x1200.gif",
+        "VB3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.3A-Advance-Tourist-TURN-RIGHT-1200x1050.gif",
+        "VB1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.1A-Advance-Tourist-TURN-RIGHT-1400x750.gif",
+        "VB1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.1A-Advance-Tourist-TURN-LEFT-1400x750.gif"
+      }
+    },
+    "A31-3B": {
+      "name": "Advance Tourist Turn Right/Distance/(3 Symbols)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1097?category=1032&start=10",
+      "urls": {
+        "VG3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.3B-Advance-Tourist-TURN-RIGHT-1300x900.gif",
+        "VG2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.2B-Advance-Tourist-TURN-RIGHT-1200x900.gif",
+        "VG1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.1B-Advance-Tourist-TURN-RIGHT-600x1000.gif",
+        "VG4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.4B-Advance-Tourist-TURN-RIGHT-1800x900.gif",
+        "VG4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-4.4B-Advance-Tourist-TURN-LEFT-1800x900.gif",
+        "VG3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.3B-Advance-Tourist-TURN-LEFT-1300x900.gif",
+        "VG2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.2B-Advance-Tourist-TURN-LEFT-1200x900.gif",
+        "VG1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-3.1B-Advance-Tourist-TURN-LEFT-600x1000.gif"
+      }
+    },
+    "A31-1B": {
+      "name": "Advance Tourist/Distance/On Right/(4 Symbols)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1091?category=1032&start=10",
+      "urls": {
+        "VF4R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-1.4-Advance-Tourist-ON-RIGHT-1800x900.gif",
+        "VF3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-1.3-Advance-Tourist-ON-RIGHT-1300x900.gif",
+        "VF4L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-1.4-Advance-Tourist-ON-LEFT-1800x900.gif",
+        "VF3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-1.3-Advance-Tourist-ON-LEFT-1300x900.gif",
+        "VF2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-1.2-Advance-Tourist-ON-900x900-RIGHT.gif",
+        "VF2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-1.2-Advance-Tourist-ON-900x900-LEFT.gif",
+        "VF1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-1.1-Advance-Tourist-ON-600x1000-Right.gif",
+        "VF1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-1.1-Advance-Tourist-ON-600x1000-Left.gif"
+      }
+    },
+    "A31-5": {
+      "name": "Next/Tourist/Feature/Distance Rural",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1083?category=1032&start=10",
+      "urls": {
+        "VAN": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A31-5-Advance-Tourist-DISTANCE-Rural-900x1200.gif"
+      }
+    },
+    "A32-2": {
+      "name": "attraction/s (two lines of text) [distance] km, chevron facing right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1066?category=1032&start=10",
+      "urls": {
+        "VD2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VD2R-2-Attractions-X-km-Chevron-Right.gif",
+        "VD1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VD1R-Attraction-X-km-Chevron-Right.gif",
+        "VD2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VD2L-2-Attractions-X-km-Chevron-Left.gif",
+        "VD1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VD1L-Attraction-X-km-Chevron-Left.gif"
+      }
+    },
+    "A32-1": {
+      "name": "attraction/s (two lines of text), chevron facing right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/985?category=1032&start=30",
+      "urls": {
+        "VC2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VC2R-2-Attractions-Chevron-Right.gif",
+        "VC2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VC2L-2-Attractions-Chevron-Left.gif",
+        "VC1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VC1L-Attraction-Chevron-Left.gif",
+        "VC1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VC1R-Attraction-Chevron-Right.gif"
+      }
+    },
+    "A31-1": {
+      "name": "attraction (one line of text) / [distance] m / ON RIGHT",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/967?category=1032&start=40",
+      "urls": {
+        "VA1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VA1R-Attraction-1-Line-X-Metres-on-Right.gif",
+        "VA1L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/VA1L-Attraction-1-Line-X-Metres-on-Left.gif"
+      }
+    },
+    "A11-4": {
+      "name": "A11-4 Advanced Direction ‘Map’, Roundabout, multi lane",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1240?category=1033&start=0",
+      "urls": {
+        "GAM": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A11-4-Roundabout-Em-120-labelled-v2.gif"
+      }
+    },
+    "A14-1": {
+      "name": "Street name plate – erected above other GJ signs",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1060?category=1033&start=0",
+      "urls": {
+        "GJN": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJN-Street-Name-Plate.gif"
+      }
+    },
+    "A51-7": {
+      "name": "Cycle route location plate",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1193?category=1033&start=0",
+      "urls": {
+        "AU67": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-7-Cycle-Route-Location-Plate-LABELS.png"
+      }
+    },
+    "A13-4": {
+      "name": "Junction direction - finger board",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1059?category=1033&start=0",
+      "urls": {
+        "GJF": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJF-Junction-Direction-Finger-Board.gif"
+      }
+    },
+    "A51-3": {
+      "name": "Cycle route intersection direction – primary route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1189?category=1033&start=0",
+      "urls": {
+        "AU63": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-3-Cycle-Route-Intersection-Direction-Primary-Route-LABELS.png"
+      }
+    },
+    "A13-2": {
+      "name": "Junction direction - arrow R",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1057?category=1033&start=0",
+      "urls": {
+        "GJ3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJ3R-Junction-Direction-Arrow-R.gif",
+        "GJ3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJ3L-Junction-Direction-Arrow-L.gif",
+        "GJ3Z": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJ3Z-Junction-Direction-Arrow-Other.gif"
+      }
+    },
+    "A13-1.1": {
+      "name": "Junction direction - chevron facing left, [distance] km, [location]",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1051?category=1033&start=0",
+      "urls": {
+        "GJ2L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJ2L-Junction-Direction-Chevron-Left-km-Location.gif",
+        "GJ2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJ2R-Junction-Direction-Chevron-Right-km-Location-labelled.gif"
+      }
+    },
+    "A11-6": {
+      "name": "Route indicator –Tsunami evacuation route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/965?category=1033&start=0",
+      "urls": {
+        "GRTS": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GRTS-Route-Indicator-Tsunami-Evacuation-Route.gif"
+      }
+    },
+    "A16-3": {
+      "name": "Route indicator – special vehicle route (eg SV30 or SU10 symbol)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/962?category=1033&start=10",
+      "urls": {
+        "GRVR": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GRVR-Route-Indicator-Special-Vehicle.gif"
+      }
+    },
+    "A16-2": {
+      "name": "Route indicator urban route - 1 or 2 digits may have a letter",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/961?category=1033&start=10",
+      "urls": {
+        "GRRR": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GRRR-Route-Indicator-Urban-Route.gif"
+      }
+    },
+    "A15-2": {
+      "name": "Confirmation direction cycle route – N locations",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/955?category=1033&start=10",
+      "urls": {
+        "GCUN": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GCUN-Confirmation-Direction-Cycle-Route-N-Location.gif",
+        "GCU3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GCU3-Confirmation-Direction-Cycle-Route-3-Location.gif",
+        "GCU1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GCU1-Confirmation-Direction-Cycle-Route-1-Location.gif",
+        "GCU2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GCU2-Confirmation-Direction-Cycle-Route-2-Location.gif"
+      }
+    },
+    "A15-1": {
+      "name": "Confirmation direction - N locations",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/951?category=1033&start=10",
+      "urls": {
+        "GC1N": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GC1N-Confirmation-Direction-N-Location.gif",
+        "GC13": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GC13-Confirmation-Direction-3-Location.gif",
+        "GC11": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GC11-Confirmation-Direction-1-Location.gif",
+        "GC12": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GC12-Confirmation-Direction-2-Location.gif"
+      }
+    },
+    "none - example only": {
+      "name": "Three panel, N lines of legend example",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/943?category=1033&start=10",
+      "urls": {
+        "GA3N": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA3N-3-Panel-N-Lines-of-Legend-no-labels.gif",
+        "GA33": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA33-3-Panel-3-Lines-of-Legend-no-labels.gif",
+        "GA2N": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA2N-2-Panel-N-Lines-of-Legend-no-labels.gif",
+        "GA23": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA23-2-Panel-3-Lines-of-Legend.gif",
+        "GA15": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA15-1-Panel-5-Lines-of-Legend-no-labels.gif",
+        "GA13": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA13-1-Panel-3-Lines-of-Legend-no-labels.gif",
+        "GA34": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA34-3-Panel-4-Lines-of-Legend-no-labels.gif",
+        "GA25": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA25-2-Panel-5-Lines-of-Legend.gif",
+        "GA24": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA24-2-Panel-4-Lines-of-Legend-no-labels.gif",
+        "GA22": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA22-2-Panel-2-Lines-of-Legend-no-labels.gif",
+        "GA1N": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA1N-1-Panel-N-Lines-of-Legend-no-labels.gif",
+        "GA14": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA14-1-Panel-4-Lines-of-Legend-no-labels.gif"
+      }
+    },
+    "A11-5": {
+      "name": "Advance direction cycle route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/928?category=1033&start=20",
+      "urls": {
+        "GAU": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GAU-Advance-Direction-Cycle-Route.gif"
+      }
+    },
+    "A11-3": {
+      "name": "Advance direction 'stack' more than 2 localities",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/926?category=1033&start=20",
+      "urls": {
+        "GA3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA3-Advance-Direction-Stack-2+-Localities.gif"
+      }
+    },
+    "A11-1": {
+      "name": "Advance direction locality turn right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/922?category=1033&start=20",
+      "urls": {
+        "GA12": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA12-Advance-Direction-Locality-Turn-Right-labelled.gif",
+        "GA11": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA11-Advance-Direction-Locality-Turn-Left-labelled.gif"
+      }
+    },
+    "A13-3.2": {
+      "name": "Junction direction cycle route - double chevron (revised 2010)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1055?category=1033&start=20",
+      "urls": {
+        "GJUB": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJUB-Junction-Direction-Cycle-Route-Double-Chevron.gif"
+      }
+    },
+    "A13-1.2": {
+      "name": "Junction direction cycle route - chevron board R (revised 2010)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1054?category=1033&start=30",
+      "urls": {
+        "GJUR": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJUR-Junction-Direction-Cycle-Route-Chevron-Right.gif",
+        "GJUL": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJUL-Junction-Direction-Cycle-Route-Chevron-Left.gif"
+      }
+    },
+    "A13-3": {
+      "name": "Junction direction - double chevron",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1050?category=1033&start=30",
+      "urls": {
+        "GJ1B": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJ1B-Junction-Direction-Double-Chevron-Location.gif"
+      }
+    },
+    "A13-1": {
+      "name": "Junction direction - [location] chevron facing right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1049?category=1033&start=30",
+      "urls": {
+        "GJ1R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJ1R-Junction-Direction-Chevron-Right-Location.gif"
+      }
+    },
+    "A16-1": {
+      "name": "Route indicator SH - 1 or 2 digits may have letter",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/960?category=1033&start=30",
+      "urls": {
+        "GRSH": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GRSH-Route-Indicator-State-Highway2.gif"
+      }
+    },
+    "A17-1C": {
+      "name": "Destination reached - white letters on black",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/959?category=1033&start=30",
+      "urls": {
+        "GD14": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GD14-Destination-reached-white-on-black.gif"
+      }
+    },
+    "A17-1B": {
+      "name": "Destination reached - black letters on white",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/958?category=1033&start=30",
+      "urls": {
+        "GD13": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GD13-Destination-reached-black-on-white.gif"
+      }
+    },
+    "A17-1A": {
+      "name": "Destination reached - white letters on blue",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/957?category=1033&start=30",
+      "urls": {
+        "GD12": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GD12-Destination-reached-white-on-blue.gif",
+        "GD11 ": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GD11-Destination-reached-white-on-green.gif"
+      }
+    },
+    "A12-3B": {
+      "name": "Advance lane direction - EXIT [arrow] ONLY supplement",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/947?category=1033&start=40",
+      "urls": {
+        "GLE2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GLE2-Advance-Lane-Direction-Exit-Arrow-Only-Supplement.gif"
+      }
+    },
+    "A12-3A": {
+      "name": "Advance lane direction - EXIT ONLY supplement",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/946?category=1033&start=40",
+      "urls": {
+        "GLE1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GLE1-Advance-Lane-Direction-Exit-Only-Supplement.gif"
+      }
+    },
+    "A12-2": {
+      "name": "Advance lane direction – overhead downward facing arrow",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/945?category=1033&start=40",
+      "urls": {
+        "GLA": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GLA-Advance-Lane-Direction-Overhead-Down-Arrow.gif"
+      }
+    },
+    "A12-1": {
+      "name": "Advance lane designation - word message - L, R or other",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/944?category=1033&start=40",
+      "urls": {
+        "GLW": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GLW-Advance-Lane-Designation.gif"
+      }
+    },
+    "A11-2": {
+      "name": "Advance direction 2 localities - both right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/925?category=1033&start=50",
+      "urls": {
+        "GA23": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA23-Advance-Direction-2-Localities-Both-Right-labelled.gif",
+        "GA22": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA22-Advance-Direction-2-Localities-1-Left-1-Right.gif",
+        "GA21": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GA21-Advance-Direction-2-Localities-Both-Left-labelled.gif"
+      }
+    },
+    "12-2": {
+      "name": "Advance lane direction – overhead downward facing arrow",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1243?category=1033&start=60",
+      "urls": {
+        "GLA": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GLA-Advance-Lane-Direction-Overhead-Down-Arrow-labelled-v2.gif"
+      }
+    },
+    "13-1.1": {
+      "name": "Junction direction - [distance] km, [location], chevron facing left",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1242?category=1033&start=60",
+      "urls": {
+        "GJ2R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/GJ2R-Junction-Direction-Chevron-Left-km-Location-labelled.gif"
+      }
+    },
+    "A51-9": {
+      "name": "Cycle route network map",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1195?category=1033&start=60",
+      "urls": {
+        "AU69": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-9-Cycle-Route-Network-Map-LABELS.png"
+      }
+    },
+    "A51-8": {
+      "name": "Cycle route confirmation direction – primary route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1194?category=1033&start=60",
+      "urls": {
+        "AU68": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-8-Cycle-Route-Confirmation-Direction-Primary-Route-LABELS.png"
+      }
+    },
+    "A51-6": {
+      "name": "Cycle route marker – local route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1192?category=1033&start=60",
+      "urls": {
+        "AU66": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-6-Cycle-Route-Marker-Local-Route-LABELS.png"
+      }
+    },
+    "A51-5": {
+      "name": "Cycle route direction – primary route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1191?category=1033&start=60",
+      "urls": {
+        "AU65": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-5-Cycle-Route-Direction-Primary-Route-LABELS.png"
+      }
+    },
+    "A51-4": {
+      "name": "Cycle route intersection direction arrow – local route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1190?category=1033&start=60",
+      "urls": {
+        "AU64": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-4-Cycle-Route-Intersection-Direction-Arrow-Local-Route-LABELS.png"
+      }
+    },
+    "A51-2": {
+      "name": "Cycle route advance direction map – primary route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1188?category=1033&start=60",
+      "urls": {
+        "AU62": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-2-Cycle-Route-Advance-Direction-Map-Primary-Route-LABELS.png"
+      }
+    },
+    "A51-1": {
+      "name": "Cycle Route Advance Direction - Primary Route",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1187?category=1033&start=60",
+      "urls": {
+        "AU61": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A51-1-Cycle-Route-Advance-Direction-Primary-Route-LABELS2.png"
+      }
+    },
+    "R1-8.2": {
+      "name": "Temporary speed limit for slippery surface - Option A",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1167?category=835&start=0",
+      "urls": {
+        "RST2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R1-9.2-Temporary-speed-limit-for-slippery-surface-A.png",
+        "RST2B": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R1-9.2-Temporary-speed-limit-for-slippery-surface-option-B-w-labels.png"
+      }
+    },
+    "W2-1.24": {
+      "name": "Hazard warning supplementary - barrier arms not working (Supplements W2-1)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/764?category=835&start=0",
+      "urls": {
+        "T236 / T236B": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/W2-Hazard-Warning-Supp-Bariers-Not-Working.gif"
+      }
+    },
+    "W6-5": {
+      "name": "Crash",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/768?category=835&start=0",
+      "urls": {
+        "TZ35": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/W6-Incident-Warning-Crash2.gif"
+      }
+    },
+    "W6-2": {
+      "name": "Fire",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/767?category=835&start=0",
+      "urls": {
+        "TZ32": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/W6-Incident-Warning-Fire2.gif"
+      }
+    },
+    "W7-7.1": {
+      "name": "\"General supplementary `Works End Thank You` supplementary for backing board\" — sign",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/874?category=835&start=0",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/TXXX-Works-end-thank-you-Supp-for-backing-board.gif",
+        "TG32": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/TG32-Works-end-thank-you.gif"
+      }
+    },
+    "W4-9": {
+      "name": "Arrow board - Variable",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/872?category=835&start=0",
+      "urls": {
+        "TLA1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/TLA1-Arrow-board-variable.gif"
+      }
+    },
+    "W1-1.2B": {
+      "name": "\"NEW SEAL\" Supplementary For Backing Board",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/868?category=835&start=0",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/TXXX-New-Seal-Supplementary-Backing-Board.gif"
+      }
+    },
+    "W5-2.23": {
+      "name": "Road closure / detour  direction indicator state highway shield symbol Straight Ahead RH",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/499?category=835&start=0",
+      "urls": {
+        "TDD6": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-04-06.gif",
+        "TDD5": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-04-05.gif",
+        "TDA6": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-01-06.gif",
+        "TDA5": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-01-05.gif",
+        "TDC6": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-03-06.gif",
+        "TDC5": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-03-05.gif",
+        "TDB6": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-02-06.gif",
+        "TDB5": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-02-05.gif"
+      }
+    },
+    "W5-2.22": {
+      "name": "Road closure / detour  direction indicator state highway shield symbol veer right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/497?category=835&start=10",
+      "urls": {
+        "TDD4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-04-04.gif",
+        "TDD3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-04-03.gif",
+        "TDC4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-03-04.gif",
+        "TDB4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-02-04.gif",
+        "TDC3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-03-03.gif",
+        "TDB3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-02-03.gif",
+        "TDA4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-01-04.gif",
+        "TDA3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-01-03.gif"
+      }
+    },
+    "W5-2.21": {
+      "name": "Road closure / detour direction indicator circle symbol Turn Right",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/441?category=835&start=10",
+      "urls": {
+        "TDB2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-02-02.gif",
+        "TDB1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-02-01.gif",
+        "TDA2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-01-02.gif",
+        "TDA1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-01-01.gif",
+        "TDD2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-04-02.gif",
+        "TDD1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-04-01.gif",
+        "TDC2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-03-02.gif",
+        "TDC1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-04-03-01.gif"
+      }
+    },
+    "W5-4": {
+      "name": "Road closure / detour `Detour Ends`",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/452?category=835&start=20",
+      "urls": {
+        "TD5": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/tw06-05.gif"
+      }
+    },
+    "A30-S1": {
+      "name": "Historic Places Trust building",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1029?category=923&start=0",
+      "urls": {
+        "ST03": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ST03-Historic-Places-Trust-Building.gif"
+      }
+    },
+    "None": {
+      "name": "Keep Left W14-11 Symbol",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1070?category=923&start=0",
+      "urls": {
+        "None": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/Keep-Left-W14-11-Symbol.gif",
+        "SV20": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s036.gif",
+        "SV13": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s035.gif",
+        "SR11": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s031.gif",
+        "SF35": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/SF35-Kereru-and-car-Symbol.gif",
+        "SV11": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s033.gif",
+        "SR10": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s030.gif",
+        "SV37": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s027.gif",
+        "SV36": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s026.gif",
+        "SV30": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s025.gif",
+        "SV52": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s024.gif",
+        "SV51": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s023.gif",
+        "SU11": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s016.gif",
+        "SV12": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s015.gif",
+        "SR08": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s014.gif",
+        "SV50": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s013.gif",
+        "SR04": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s009.gif",
+        "SR03": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s008.gif",
+        "SV33": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s007.gif",
+        "SR09": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s029.gif",
+        "SU04": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s018.gif",
+        "SU02": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s017.gif",
+        "SR07": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s012.gif",
+        "SR06": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s011.gif",
+        "SR05": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s010.gif",
+        "SR02": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s006.gif",
+        "SU01": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s004.gif",
+        "SU10": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s003-outline.gif",
+        "SV10": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s002.gif",
+        "SR01": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s001.gif",
+        "RP2F": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RP2F-Give-way-fluoro.gif"
+      }
+    },
+    "W5-2.12": {
+      "name": "Detour symbol – circle",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1014?category=923&start=10",
+      "urls": {
+        "SGD2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/SGD2-Detour-Symbol-Circle.gif"
+      }
+    },
+    "W5-2.11": {
+      "name": "Detour symbol - square",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1013?category=923&start=10",
+      "urls": {
+        "SGD1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/SGD1-Detour-Symbol-Square.gif"
+      }
+    },
+    "A20-S22": {
+      "name": "Electric Vehicle charging station - symbol (for motorist service signs and parking signs)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1074?category=923&start=20",
+      "urls": {
+        "SM31": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/SM31-A20-S22-EV-Sign-grid.gif"
+      }
+    },
+    "A30-S2": {
+      "name": "Vineyard",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1030?category=923&start=30",
+      "urls": {
+        "ST07": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ST07-Vineyard.gif"
+      }
+    },
+    "A43-4": {
+      "name": "NZ Cycle Trail (NZCT) symbol",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/779?category=923&start=30",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A43-NZCT-Symbol.gif"
+      }
+    },
+    "R6-1D": {
+      "name": "Pay parking (P$)  (used in PP series)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1024?category=923&start=30",
+      "urls": {
+        "SP04": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/SP04-Pay-Parking-P.gif"
+      }
+    },
+    "R6-1C": {
+      "name": "Parking (P) (used in PP series)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1023?category=923&start=40",
+      "urls": {
+        "SP03": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/SP03-Parking-P.gif"
+      }
+    },
+    "W5-2.14": {
+      "name": "Detour symbol – SH shield",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1016?category=923&start=40",
+      "urls": {
+        "SGD4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/SGD4-Detour-Symbol-SH-Shield.gif"
+      }
+    },
+    "W5-2.13": {
+      "name": "Detour symbol – diamond",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1015?category=923&start=40",
+      "urls": {
+        "SGD3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/SGD3-Detour-Symbol-Diamond.gif"
+      }
+    },
+    "A20-S18": {
+      "name": "Motorist service airfield",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/704?category=923&start=50",
+      "urls": {
+        "SM18": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s055.gif"
+      }
+    },
+    "A20-S16": {
+      "name": "Motorist service truck parking area",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/702?category=923&start=50",
+      "urls": {
+        "SM16": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s053.gif"
+      }
+    },
+    "A20-S14": {
+      "name": "Motorist service waste disposal for campervans and caravans",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/700?category=923&start=50",
+      "urls": {
+        "SM14": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s051.gif"
+      }
+    },
+    "A20-S11": {
+      "name": "Motorist service 24 hr medical service",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/697?category=923&start=50",
+      "urls": {
+        "SM11": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s048.gif"
+      }
+    },
+    "A20-S10": {
+      "name": "Motorist service information",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/696?category=923&start=50",
+      "urls": {
+        "SM10": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s047.gif"
+      }
+    },
+    "A20--S7": {
+      "name": "motorist service motor fuel and repairs",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/693?category=923&start=50",
+      "urls": {
+        "SM07": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s044.gif"
+      }
+    },
+    "A20-S6": {
+      "name": "Motorist service motor fuel",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/692?category=923&start=50",
+      "urls": {
+        "SM06": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s043.gif"
+      }
+    },
+    "A20-S3": {
+      "name": "Motorist service camping ground",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/689?category=923&start=60",
+      "urls": {
+        "SM03": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s040.gif"
+      }
+    },
+    "A20-S1": {
+      "name": "Motorist service rest area",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/687?category=923&start=60",
+      "urls": {
+        "SM01": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s038.gif"
+      }
+    },
+    "A20-S20": {
+      "name": "Motorist service wheelchair access",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/706?category=923&start=60",
+      "urls": {
+        "SM20": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s057.gif"
+      }
+    },
+    "A20-S19": {
+      "name": "Motorist service boat ramp",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/705?category=923&start=60",
+      "urls": {
+        "SM19": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s056.gif"
+      }
+    },
+    "A20-S17": {
+      "name": "Motorist service truck trailer parking area",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/703?category=923&start=70",
+      "urls": {
+        "SM17": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s054.gif"
+      }
+    },
+    "A20-S15": {
+      "name": "Motorist service public parking area",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/701?category=923&start=70",
+      "urls": {
+        "SM15": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s052.gif"
+      }
+    },
+    "A20-S13": {
+      "name": "Motorist service public toilets",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/699?category=923&start=70",
+      "urls": {
+        "SM13": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s050.gif"
+      }
+    },
+    "A30-S4": {
+      "name": "Photography Symbol",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1140?category=923&start=70",
+      "urls": {
+        "ST11": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ST11-Photography.gif"
+      }
+    },
+    "A20-S12": {
+      "name": "Motorist service public telephone",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/698?category=923&start=70",
+      "urls": {
+        "SM12": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s049.gif"
+      }
+    },
+    "A30-S3": {
+      "name": "Look Out Symbol",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1139?category=923&start=70",
+      "urls": {
+        "ST10": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/ST10-Look-Out.gif"
+      }
+    },
+    "A20-S9": {
+      "name": "Motorist service meals",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/695?category=923&start=70",
+      "urls": {
+        "SM09": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s046.gif"
+      }
+    },
+    "A20-S8": {
+      "name": "motorist service refreshments",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/694?category=923&start=70",
+      "urls": {
+        "SM08": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s045.gif"
+      }
+    },
+    "A20-S5": {
+      "name": "Motorist service camping ground and caravan park",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/691?category=923&start=70",
+      "urls": {
+        "SM05": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s042.gif"
+      }
+    },
+    "A20-S4": {
+      "name": "Motorist service caravan park",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/690?category=923&start=70",
+      "urls": {
+        "SM04": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s041.gif"
+      }
+    },
+    "A20-S2": {
+      "name": "Motorist service accommodation",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/688?category=923&start=80",
+      "urls": {
+        "SM02": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/s039.gif"
+      }
+    },
+    "R6-5.1": {
+      "name": "Pay Parking area identification supplementary - sign (location code for technology based system for paying parking fees)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1075?category=924&start=0",
+      "urls": {
+        "PPS5": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PPS5-Parking-Sign-6-Digit-Final4.gif"
+      }
+    },
+    "none (Components: R6-1C.2-1T.2-3-3-4)": {
+      "name": "e.g. P / 120 / 9am – 4pm / Mon – Fri / ZONE",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/890?category=924&start=0",
+      "urls": {
+        "PZ23": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ23-P-120-9-4-Mon-Fri-Zone.gif"
+      }
+    },
+    "none (Components: R6-1C.2-4)": {
+      "name": "e.g. P / 60 / ZONE",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/887?category=924&start=0",
+      "urls": {
+        "PZ21": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ21-P-60-Zone.gif"
+      }
+    },
+    "none (Components: R6-1C-2C-4-4)": {
+      "name": "e.g. P / Resident / Permit / Parking / ZONE / BEGINS",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/886?category=924&start=0",
+      "urls": {
+        "PZ15": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ15-P-Resident-Permit-Parking-Zone-Begins.gif"
+      }
+    },
+    "none (Components: R6-1C.1-1T.2-4-4)": {
+      "name": "e.g. P 120 / Mon – Fri / ZONE /BEGINS",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/884?category=924&start=0",
+      "urls": {
+        "PZ13": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ13-P-120-Mon-Fri-Zone-Begins.gif"
+      }
+    },
+    "none (Components: R6-1C.1-1T.2-4)": {
+      "name": "e.g. P 120 / Mon - Fri / ZONE",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/882?category=924&start=0",
+      "urls": {
+        "PZ12": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ12-P-120-Mon-Fri-Zone.gif"
+      }
+    },
+    "none (Components: R6-1D.1-1T.2-4)": {
+      "name": "e.g. P$ / ZONE, P60 / ZONE",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/881?category=924&start=0",
+      "urls": {
+        "PZ11": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ11-P-Zone-P60-Zone.gif"
+      }
+    },
+    "R6-53.3 (Components: R6-2C-Tour Coaches Only)": {
+      "name": "\"Class restricted bus parking class supplementary \"Tour Coaches Only\"\" — sign",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/880?category=924&start=0",
+      "urls": {
+        "PPS2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PPS2-Bus-Parking-Class-Supp-Tour-Coaches-Only.gif"
+      }
+    },
+    "R6-12.5 (Components: R6-2A-4)": {
+      "name": "Clearway ENDS",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/876?category=924&start=0",
+      "urls": {
+        "PCS2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PCS2-Clearway-Ends.gif"
+      }
+    },
+    "none (Components: R6-1C.2-1T.2-4-4)": {
+      "name": "e.g. P / 120 / ZONE / ENDS",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/889?category=924&start=0",
+      "urls": {
+        "PZ22": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ22-P-120-Zone-Ends.gif"
+      }
+    },
+    "none (Components: R6-1C.2-1T.2-3-4)": {
+      "name": "e.g. P / 60 / Mon – Fri / ZONE",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/888?category=924&start=10",
+      "urls": {
+        "PZ22": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ22-P-60-Mon-Fri-Zone.gif"
+      }
+    },
+    "none (Components: R6-1C-2C-4)": {
+      "name": "e.g. P / Resident / Permit / Parking /ZONE",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/885?category=924&start=10",
+      "urls": {
+        "PZ14": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ14-P-Resident-Permit-Parking-Zone.gif"
+      }
+    },
+    "none (Components: R6-1D.1-4-4)": {
+      "name": "e.g. P$ / ZONE / ENDS",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/883?category=924&start=10",
+      "urls": {
+        "PZ12": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/PZ12-P-Zone-Ends.gif"
+      }
+    },
+    "none (Components: R6-1B-2B-3-4)": {
+      "name": "\"No parking Bus Stop, specified days, double arrow\" — sign",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/879?category=924&start=10",
+      "urls": {
+        "P23": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/P23-Bus-stop-specified-days-double-arrow.gif"
+      }
+    },
+    "R1-9.1": {
+      "name": "Beach 60km / 30km",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1248?category=677&start=0",
+      "urls": {
+        "RS63": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R1-9.2-R1-Beach-English-Series-D-labelled.gif"
+      }
+    },
+    "R1-5.2.1": {
+      "name": "Green Threshold option A rural/urban",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1245?category=677&start=0",
+      "urls": {
+        "RS52.1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS52-Green-Threshold-option-A-rural-urban-labelled.gif"
+      }
+    },
+    "R1-8.3": {
+      "name": "Temporary speed limit for unsafe structure Option B",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1237?category=677&start=0",
+      "urls": {
+        "RST3B": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R1-8-v2.3-Temporary-speed-limit-for-unsafe-structure-Option-B-labelled.gif",
+        "RST3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R1-8.3-Temporary-speed-limit-for-unsafe-structure-Option-A-labelled.gif"
+      }
+    },
+    "R5-9.3B": {
+      "name": "Heavy vehicle bridge limit, combined limit restriction horizontal Option B",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1234?category=677&start=0",
+      "urls": {
+        "RJH7": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R5-9-v2.3-Heavy-vehicle-bridge-limit-Horizontal-B-labelled.gif"
+      }
+    },
+    "R5-9.3": {
+      "name": "Heavy vehicle bridge limit, combined limit restriction, vertical Option A",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1233?category=677&start=0",
+      "urls": {
+        "RJH6": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R5-9-v2.3-Heavy-vehicle-bridge-limit-Vertical-A-labelled.gif"
+      }
+    },
+    "R1-5.6": {
+      "name": "Motorway or Expressway Threshold",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1163?category=677&start=0",
+      "urls": {
+        " RS56": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS56-Waikato-Expressway-Threshold.gif"
+      }
+    },
+    "R4-8.1": {
+      "name": "Transit Lane - two periods same day",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/817?category=677&start=0",
+      "urls": {
+        "RLT2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RLT2-Transit-lane-2-periods-same-day.gif"
+      }
+    },
+    "R4-8": {
+      "name": "Transit Lane - Single peak period",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/816?category=677&start=0",
+      "urls": {
+        "RLT1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RLT1-Transit-lane-single-peak-period.gif"
+      }
+    },
+    "R4-7.3": {
+      "name": "Bus lane, two periods same days",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/814?category=677&start=0",
+      "urls": {
+        "RLB4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RLB4-Bus-lane-2-periods-same-days-labelled.gif"
+      }
+    },
+    "R4-7.2": {
+      "name": "Bus lane, single peak period",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/813?category=677&start=0",
+      "urls": {
+        "RLB3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RLB3-Bus-lane-single-peak-period.gif"
+      }
+    },
+    "R4-5": {
+      "name": "Diagonal arrow right (generally lit)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/806?category=677&start=10",
+      "urls": {
+        "RL3R": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RL3R-Diag-arrow-right.gif",
+        "RL3L": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RL3L-Diag-arrow-left.gif"
+      }
+    },
+    "R3-14": {
+      "name": "Barrier arm (used in conjunction with RPX1 assembly)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/801?category=677&start=10",
+      "urls": {
+        "RPB": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RPB-Barrier-arm.gif"
+      }
+    },
+    "R2-6.1": {
+      "name": "\"Stop On Red Signal\" variable",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/798?category=677&start=10",
+      "urls": {
+        "RP6V": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RP6V-Stop-on-red-signal-variable.gif"
+      }
+    },
+    "R2-3.1": {
+      "name": "Give-way roundabout",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/762?category=677&start=20",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R2-Give-Way-Roundabout-02-03.gif"
+      }
+    },
+    "R1-5.5": {
+      "name": "Safer Speed Area Threshold",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/760?category=677&start=20",
+      "urls": {
+        "RS55": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R1-Safer-Speed-Area-Threshold.gif"
+      }
+    },
+    "R4-4, 5 or 6": {
+      "name": "Arrow variable S, L or R and X",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/808?category=677&start=20",
+      "urls": {
+        "RL3V": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RL3V-Arrows-and-cross.gif"
+      }
+    },
+    "R1-5.4": {
+      "name": "Motorway begins threshold",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/793?category=677&start=30",
+      "urls": {
+        "RS54": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS5-Motorway-begins-threshold.gif"
+      }
+    },
+    "R1-5.3": {
+      "name": "Motorway ends threshold",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/792?category=677&start=30",
+      "urls": {
+        "RS53": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS5-Motorway-ends-threshold.gif"
+      }
+    },
+    "R1-5.1B": {
+      "name": "white Threshold option B urban/urban",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/788?category=677&start=30",
+      "urls": {
+        "RS51B": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RS51-White-Threshold-option-B-urban-urban.gif"
+      }
+    },
+    "R3-5.4": {
+      "name": "Supplementary - except \"class\" or \"description\" of vehicle",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/763?category=677&start=30",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R3-DP-Supplementary-Except-Class-or-Description-of-Vehicle.gif"
+      }
+    },
+    "R7-10.1": {
+      "name": "General regulatory – variable [messages subject to RCA protocol]",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/836?category=677&start=40",
+      "urls": {
+        "RB2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RB2-General-regulatory-variable.gif"
+      }
+    },
+    "R7-10": {
+      "name": "General regulatory",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/835?category=677&start=40",
+      "urls": {
+        "RB1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RB1-General-regulatory.gif"
+      }
+    },
+    "R5-13B": {
+      "name": "No cruising zone with time period",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/831?category=677&start=40",
+      "urls": {
+        "RJ84": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ84-No-cruising-zone-with-time-period.gif"
+      }
+    },
+    "R5-9": {
+      "name": "Heavy vehicle bridge limit, 2 panels",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/824?category=677&start=40",
+      "urls": {
+        "RJH2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJH2-Heavy-vehicle-bridge-limit-2.gif",
+        "RJH3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJH3-Heavy-vehicle-bridge-limit-3.gif",
+        "RJH1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJH1-Heavy-vehicle-bridge-limit-1.gif"
+      }
+    },
+    "R4-8.2": {
+      "name": "Transit Lane - two periods different days horizontal",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/818?category=677&start=40",
+      "urls": {
+        "RLT3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RLT3-Transit-lane-2-periods-diff-days-horizontal.gif"
+      }
+    },
+    "R5-13.2B": {
+      "name": "No cruising zone ends with time period",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/833?category=677&start=40",
+      "urls": {
+        "RJ86": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ86-No-cruising-zone-ends-with-time-period.gif"
+      }
+    },
+    "R5-13.1B": {
+      "name": "No cruising zone begins with time period",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/832?category=677&start=40",
+      "urls": {
+        "RJ85": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ85-No-cruising-zone-begins-with-time-period.gif"
+      }
+    },
+    "R5-12": {
+      "name": "No campervan waste",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/827?category=677&start=50",
+      "urls": {
+        "RJ72": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ72-No-campervan-waste.gif"
+      }
+    },
+    "R5-11": {
+      "name": "No camping",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/826?category=677&start=50",
+      "urls": {
+        "RJ71": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RJ71-No-camping.gif"
+      }
+    },
+    "R4-8.5": {
+      "name": "Transit plus one other class LANE (eg Transit + Heavy vehicles)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/821?category=677&start=50",
+      "urls": {
+        "RLT6": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RLT6-Transit-plus-one-other-class.gif"
+      }
+    },
+    "R4-8.3": {
+      "name": "Transit Lane - two periods different days vertical",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/819?category=677&start=50",
+      "urls": {
+        "RLT4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/RLT4-Transit-lane-2-periods-diff-days-vertical.gif"
+      }
+    },
+    "R1-9.2": {
+      "name": "Riverbed 60km / 30km",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1249?category=677&start=50",
+      "urls": {
+        "RS63": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R1-9.2-R1-Riverbed-English-Series-D-labelled.gif"
+      }
+    },
+    "R5-9.2": {
+      "name": "Heavy vehicle bridge limit, number of axles and gross weight",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1232?category=677&start=60",
+      "urls": {
+        "RJH5": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R5-9-v3.2-Heavy-vehicle-bridge-limit-axles-gross-weight-labelled.gif"
+      }
+    },
+    "R5-9.1": {
+      "name": "Heavy vehicle bridge limit, axle sets",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1231?category=677&start=60",
+      "urls": {
+        "RJH4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/R5-9-v5.1-Heavy-vehicle-bridge-limit-axle-sets-labelled.gif"
+      }
+    },
+    "A45-6": {
+      "name": "Heavy vehicle bridge restriction ahead ‘[distance]’ km",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1236?category=966&start=0",
+      "urls": {
+        "AH31": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A45-6-Heavy-Vehicle-Bridge-Restriction-Ahead-labelled-v4.gif"
+      }
+    },
+    "A44-1": {
+      "name": "Pass Safely - Pedestrians",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1198?category=966&start=0",
+      "urls": {
+        "AU53": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AU53-Pass-safely-pedestrian-900-x-750mm.gif"
+      }
+    },
+    "A42-6.3": {
+      "name": "Advance advisory special vehicle lane supplementary – On-ramp",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1161?category=966&start=0",
+      "urls": {
+        "AB43": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AB43-Advance-advisory-special-vehicle-lane-supplementary-On-ramp.gif"
+      }
+    },
+    "A42-6.1": {
+      "name": "Advance advisory special vehicle lane supplementary – [distance] m",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1159?category=966&start=0",
+      "urls": {
+        "AB41": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AB41-Advance-advisory-special-vehicle-lane-supplementary-distance-m.gif"
+      }
+    },
+    "A42-6": {
+      "name": "Advance advisory T2 HV EV lane",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1157?category=966&start=0",
+      "urls": {
+        "AB4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AB4-Advance-advisory-T2-HV-EV-lane.gif"
+      }
+    },
+    "A43-4.2": {
+      "name": "NZ Cycle Trail (NZCT) route arrow",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/781?category=966&start=0",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A43-NZCT-Route-Arrow.gif"
+      }
+    },
+    "A43-4.1": {
+      "name": "NZ Cycle Trail (NZCT) logo",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/780?category=966&start=0",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A43-NZCT-Logo.gif"
+      }
+    },
+    "A40-6": {
+      "name": "Roundabout may change signal",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/777?category=966&start=0",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A40-Roundabout-May-Change.gif"
+      }
+    },
+    "A43-4.4": {
+      "name": "NZ Cycle Trail (NZCT) route begins/ends",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/783?category=966&start=10",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A43-NZCT-Route-Begins-Ends.gif"
+      }
+    },
+    "A43-4.3": {
+      "name": "NZ Cycle Trail (NZCT) route arrow",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/782?category=966&start=10",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/A43-NZCT-Route-Arrow-+-Destination.gif"
+      }
+    },
+    "A41-2.3A": {
+      "name": "Expressway Ends [xx] m",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/900?category=966&start=20",
+      "urls": {
+        "AME3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AME3-Expressway-Ends-on-main-road.gif"
+      }
+    },
+    "A41-1.3A": {
+      "name": "Motorway Ends - on main road",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/895?category=966&start=30",
+      "urls": {
+        "AMM3": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AMM3-Motorway-Ends-on-main-road.gif"
+      }
+    },
+    "A40-5": {
+      "name": "Feeling Sleepy? Take a break",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/891?category=966&start=30",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/Feeling-Sleepy.gif"
+      }
+    },
+    "A41-2.3B": {
+      "name": "Expressway Ends - on off-ramp/side road",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/901?category=966&start=30",
+      "urls": {
+        "AME4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AME4-Expressway-Ends-on-off-ramp.gif"
+      }
+    },
+    "A41-1.3B": {
+      "name": "Motorway ends - on off-ramp",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/896?category=966&start=40",
+      "urls": {
+        "AMM4": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AMM4-Motorway-Ends-on-off-ramp.gif"
+      }
+    },
+    "A42-6.2": {
+      "name": "Advance advisory special vehicle lane supplementary – Ahead",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1160?category=966&start=40",
+      "urls": {
+        "AB42": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/AB42-Advance-advisory-special-vehicle-lane-supplementary-Ahead.gif"
+      }
+    },
+    "W19-2.1": {
+      "name": "Warning – symbol illuminated when activated (Kura School)",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/1207?category=734&start=0",
+      "urls": {
+        "WB2A": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/W19-2.1-Kura-School-warning-active-LED_specs.gif"
+      }
+    },
+    "W11-3.2": {
+      "name": "Intersection sign supplementary - concealed",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/771?category=734&start=0",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/W11-Intersection-Sign-Supp-Concealed.gif"
+      }
+    },
+    "W14-2.1": {
+      "name": "Two-way (distance) ahead supplementary",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/772?category=734&start=0",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/W14-2-Way-Distance-Ahead-Supp.gif"
+      }
+    },
+    "W10-1.1": {
+      "name": "Distance ahead supplementary",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/770?category=734&start=0",
+      "urls": {
+        "none": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/W10-Distance-Ahead-Supp.gif"
+      }
+    },
+    "W19-1.1": {
+      "name": "Warning - site specific - variable text",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/865?category=734&start=0",
+      "urls": {
+        "WB2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WB2-Warning-site-specific-variable-text.gif"
+      }
+    },
+    "W17-7.1": {
+      "name": "Overdimension \"Over” “Size\" – split panel option",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/861?category=734&start=0",
+      "urls": {
+        "WV30": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WV30-Overdimension-Oversize-split-panel-option.gif"
+      }
+    },
+    "W20-3.2A": {
+      "name": "Edge marker post, orange,  white reflector",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/858?category=734&start=0",
+      "urls": {
+        "WY22": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WY22.gif"
+      }
+    },
+    "W20-3.1A": {
+      "name": "Edge marker post, orange, no reflector",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/857?category=734&start=0",
+      "urls": {
+        "WY21": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WY21.gif"
+      }
+    },
+    "W15-3.2A": {
+      "name": "Tramway crossbuck with backing board",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/847?category=734&start=0",
+      "urls": {
+        "WXT1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WXT1-Tramway-crossbuck-with-backing-board.gif"
+      }
+    },
+    "W15-8.4": {
+      "name": "Controlled intersection immediately beyond level crossing",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/842?category=734&start=10",
+      "urls": {
+        "WXB1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WXB1.gif"
+      }
+    },
+    "W13-1.4": {
+      "name": "Road narrows – three lanes to two",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/841?category=734&start=10",
+      "urls": {
+        "WW13": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WW13-Road-narrows-3-into-2.gif"
+      }
+    },
+    "W13-1.3": {
+      "name": "Road narrows – two lanes to one",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/840?category=734&start=10",
+      "urls": {
+        "WW12": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WW12-Road-narrows-2-into-1.gif"
+      }
+    },
+    "W10-6.3": {
+      "name": "Prepare to stop - variable",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/839?category=734&start=10",
+      "urls": {
+        "WA7": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WA7-Prepare-to-stop-variable.gif"
+      }
+    },
+    "W10-6.2": {
+      "name": "Ramp signal OFF variable",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/838?category=734&start=10",
+      "urls": {
+        "WA6": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WA6-Ramp-signal-off-variable.gif"
+      }
+    },
+    "W10-6.1": {
+      "name": "Ramp signal ON variable",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/837?category=734&start=10",
+      "urls": {
+        "WA6": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WA6-Ramp-signal-on-variable.gif"
+      }
+    },
+    "W19-2.2": {
+      "name": "Warning – symbol fixed display – ‘activated’ with flashing lights",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/864?category=734&start=10",
+      "urls": {
+        "WB1A": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WB1A-Warning-symbol-fixed-display-with-flashing-lights.gif"
+      }
+    },
+    "W19-1": {
+      "name": "Warning - site specific - fixed text RURAL",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/863?category=734&start=10",
+      "urls": {
+        "WB1": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WB1-Warning-site-specific-fixed-text-RURAL.gif"
+      }
+    },
+    "W17-7": {
+      "name": "Overdimension \"Over Size\"",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/860?category=734&start=20",
+      "urls": {
+        "WV29": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WV29-Overdimension-Oversize.gif"
+      }
+    },
+    "W20-3.3A": {
+      "name": "Edge marker post, orange, yellow reflector",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/859?category=734&start=20",
+      "urls": {
+        "WY23": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WY23.gif"
+      }
+    },
+    "W15-3.2": {
+      "name": "Tramway crossbuck",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/846?category=734&start=20",
+      "urls": {
+        "WXT": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WXT.gif"
+      }
+    },
+    "W15-3.1B": {
+      "name": "Crossbuck for private level crossing with [number] of tracks",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/845?category=734&start=20",
+      "urls": {
+        "WX63": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WX63-Crossbuck-private-level-crossing-with-number-of-tracks.gif"
+      }
+    },
+    "W15-3.1A": {
+      "name": "Crossbuck for private level crossing",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/844?category=734&start=20",
+      "urls": {
+        "WX62": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WX62-Crossbuck-private-level-crossing.gif"
+      }
+    },
+    "W15-8.5": {
+      "name": "Un-controlled intersection immediately beyond level crossing",
+      "docs": "https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/view/843?category=734&start=20",
+      "urls": {
+        "WXB2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WXB2.gif"
       }
     }
   },
