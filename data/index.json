@@ -11554,6 +11554,97 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r9-13-2_2.gif"
       }
     },
+    "R9-11-2": {
+      "name": "Size Restriction Over (x)m LONG",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-11-2-size-restriction-over-xm-long",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r9-11-2_1.gif"
+      }
+    },
+    "R9-12-2": {
+      "name": "Size Limit Over x(m) High",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-12-2-size-limit-over-xm-high",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r9-12-2_1.gif"
+      }
+    },
+    "R9-10-2": {
+      "name": "Mass Restriction Over x(t) GVM",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-10-2-mass-restriction-over-xt-gvm",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r9-10-2_0.gif"
+      }
+    },
+    "G9-15-2N": {
+      "name": "- Form 1 Lane x(m) (Tunnel Use Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-15-2n-form-1-lane-xm-tunnel-use-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/g9-15-2n.gif"
+      }
+    },
+    "G9-407N": {
+      "name": "- Close Windows (Car Image) Recycle A/C (Air Conditioner)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-407n-close-windows-car-image-recycle-ac-air",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/g9-407n.gif"
+      }
+    },
+    "R2-19-1N": {
+      "name": "- Left Lane Must Exit (Tunnel Use Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-19-1n-left-lane-must-exit-tunnel-use-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r2-19-1n.gif"
+      }
+    },
+    "R5-553N": {
+      "name": "Truck Parking Area P (Truck Symbolic) Only",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-553n-truck-parking-area-p-truck-symbolic-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r5-553n_0.gif"
+      }
+    },
+    "G3-8-4": {
+      "name": "- Advanced Street Name - Long Double Arrow (Not Used in NSW) Use G1-204n",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g3-8-4-advanced-street-name-long-double-arrow-not-used",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/G3-8-4.GIF"
+      }
+    },
+    "G3-8-2": {
+      "name": "- Advanced Street Name - Rural Situations - Two Arrows (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g3-8-2-advanced-street-name-rural-situations-two",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/g3-8-2.png"
+      }
+    },
+    "G3-8-3": {
+      "name": "- Advanced Street Name - Long Single Arrow Urban Situation (Not Used in NSW) Use G1-204n",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g3-8-3-advanced-street-name-long-single-arrow-urban",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/g3-8-3.png"
+      }
+    },
+    "G3-7": {
+      "name": "- Route Number Panel (Not Used in NSW) ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g3-7-route-number-panel-not-used-nsw",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/g3-7.png"
+      }
+    },
+    "G3-6": {
+      "name": "- Fingerboard (Not Used in NSW) ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g3-6-fingerboard-not-used-nsw",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/g3-6.png"
+      }
+    },
+    "G7-237-1N": {
+      "name": "- Emergency Information Tune to ABC (logo) (xxxx)  AM",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g7-237-1n-emergency-information-tune-to-abc-logo-xxxx",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/g7-237-1n.png"
+      }
+    },
     "NSW:LIGHTRAIL:FIXEDRED": {
       "urls": {
         "": "https://github.com/k-yle/traffic-signs/assets/16009897/f7d15a09-9dd9-4883-9078-697631cc057a"

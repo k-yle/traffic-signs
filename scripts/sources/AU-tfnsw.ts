@@ -24,7 +24,7 @@ export async function fetchFromTfNSW(database: DB) {
       .querySelectorAll("b");
 
     const perPage = +end.textContent! - +start.textContent! + 1;
-    totalChunks = Math.floor(+total.textContent! / perPage);
+    totalChunks = Math.ceil(+total.textContent! / perPage);
 
     for (const item of document.querySelectorAll(".featured__item")) {
       const text = item.querySelector("h3")!.textContent!;
