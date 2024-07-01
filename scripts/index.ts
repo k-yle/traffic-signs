@@ -5,6 +5,7 @@ import { fetchFromWikimedia } from "./sources/wikimedia.js";
 import type { DB } from "./helpers/common.js";
 import { fetchFromTfNSW } from "./sources/AU-tfnsw.js";
 import { fetchFromWakaKotahi } from "./sources/NZ-waka-kotahi.js";
+import { fetchFromWikidata } from "./sources/wikidata.js";
 
 async function main() {
   let database: DB = {};
@@ -12,6 +13,7 @@ async function main() {
   await fetchFromWikimedia(database);
   await fetchFromTfNSW(database);
   await fetchFromWakaKotahi(database);
+  await fetchFromWikidata(database);
 
   // add custom overrides
   const overides = JSON.parse(

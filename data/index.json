@@ -791,11 +791,22 @@
       }
     },
     "R6-4": {
-      "name": "- Gross Load Limit __t",
+      "name": "Gross Load Limit",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r6-4-gross-load-limit-t",
       "urls": {
         "": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R6-4.svg"
-      }
+      },
+      "placeholders": [
+        {
+          "domId": "path3589",
+          "x": 63,
+          "y": 267,
+          "width": 79,
+          "height": 47,
+          "font": "Q1671285",
+          "type": "Q11563"
+        }
+      ]
     },
     "R6-5": {
       "urls": {
@@ -19072,6 +19083,19 @@
       "urls": {
         "WXB2": "https://www.nzta.govt.nz/assets/resources/traffic-control-devices-manual/sign-specifications/images/WXB2.gif"
       }
+    },
+    "R6-50": {
+      "name": "Class restricted Loading zone",
+      "urls": {
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R6-50-5.svg",
+        "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R6-50L-5.svg",
+        "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R6-50R-5.svg",
+        "LR": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R6-50LR-5.svg",
+        "_": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R6-50-5_(obsolete).svg",
+        "_L": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R6-50L-5_(obsolete).svg",
+        "_R": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R6-50R-5_(obsolete).svg",
+        "_LR": "https://en.wikipedia.org/wiki/Special:FilePath/File:New_Zealand_road_sign_R6-50LR-5_(obsolete).svg"
+      }
     }
   },
   "US": {
@@ -20941,6 +20965,7 @@
       }
     },
     "W8-21": {
+      "name": "Gusty Winds Area",
       "urls": {
         "": "https://en.wikipedia.org/wiki/Special:FilePath/File:MUTCD_W8-21.svg"
       }
@@ -21898,6 +21923,18 @@
     "S5-3": {
       "urls": {
         "": "https://en.wikipedia.org/wiki/Special:FilePath/File:MUTCD_S5-3.svg"
+      }
+    },
+    "M1-4": {
+      "name": "U.S. Route shield",
+      "urls": {
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:MUTCD_M1-4_(2_digits).svg"
+      }
+    },
+    "M1-1": {
+      "name": "Interstate Highway shield",
+      "urls": {
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:MUTCD_M1-1_(2_digits).svg"
       }
     }
   }
