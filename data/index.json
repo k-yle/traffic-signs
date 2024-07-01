@@ -32,8 +32,8 @@
       }
     },
     "R2-2": {
-      "name": "One Way (Arrow Left Symbolic)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-2l-one-way-arrow-left-symbolic",
+      "name": "One Way (Arrow Right Symbolic)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-2r-one-way-arrow-right-symbolic",
       "urls": {
         "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-2-L.svg",
         "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-2-R.svg"
@@ -77,8 +77,8 @@
       }
     },
     "R2-9": {
-      "name": "Left Lane Must Turn Left",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-9l-left-lane-must-turn-left",
+      "name": "Right Lane Must Turn Right",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-9r-right-lane-must-turn-right",
       "urls": {
         "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-9-L.svg",
         "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-9-R.svg"
@@ -99,15 +99,15 @@
       }
     },
     "R2-14": {
-      "name": "All Traffic (Left Symbolic) Only ",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-14l-all-traffic-left-symbolic-only",
+      "name": "All Traffic (Right Symbolic) Only",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-14r-all-traffic-right-symbolic-only",
       "urls": {
         "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-14-L.svg",
         "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-14-R.svg"
       }
     },
     "R2-15": {
-      "name": "U Turn Permitted",
+      "name": "- U Turn Permitted",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-15-u-turn-permitted",
       "urls": {
         "": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-15.svg"
@@ -4968,13 +4968,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-203-2n_thumb.gif"
       }
     },
-    "R9-205N": {
-      "name": "- Angle Parking Plate (Variable) Angle; Front/Rear To Kerb; Vehicles Under 6m Only",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-205n-angle-parking-plate-variable-angle-frontrear",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-205n_thumb.gif"
-      }
-    },
     "R9-206N": {
       "name": "- Onto Red T-Way (Supplementary Plate)",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-206n-onto-red-t-way-supplementary-plate",
@@ -5010,13 +5003,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-303_thumb.gif"
       }
     },
-    "R9-213N": {
-      "name": "- High Pedestrian Activity ",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-213n-high-pedestrian-activity",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-213n_thumb.gif"
-      }
-    },
     "R9-215N": {
       "name": "- Buses And Authorised Vehicles Excepted",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-215n-buses-and-authorised-vehicles-excepted",
@@ -5044,13 +5030,6 @@
       "urls": {
         "A": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/rm9-9_a_thumb.gif",
         "D": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/rm9-9_d_thumb.gif"
-      }
-    },
-    "R9-225N": {
-      "name": "- Vehicles Under (x.x)m Long Excepted",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-225n-vehicles-under-xxm-long-excepted",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/r9-225n.png"
       }
     },
     "T1-5N_VMS": {
@@ -6498,13 +6477,6 @@
         "S": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/t5-1_s.gif"
       }
     },
-    "T5-209N": {
-      "name": "- Lane Divides (Symbolic)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/t5-209n-lane-divides-symbolic",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/t5-209n_thumb.gif"
-      }
-    },
     "T5-6": {
       "name": "- Arrow Marker ",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/t5-6-arrow-marker",
@@ -6819,32 +6791,11 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-304_thumb.gif"
       }
     },
-    "R9-306N": {
-      "name": "- Bicycles Only",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-306n-bicycles-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-306_thumb.gif"
-      }
-    },
     "R9-307-3N": {
       "name": "- Vehicles Over 12t Or 7.5m Long",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-307-3n-vehicles-over-12t-or-75m-long",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-307-3_thumb.gif"
-      }
-    },
-    "R9-308N": {
-      "name": "- Slow Zone ",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-308n-slow-zone",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-308_thumb.gif"
-      }
-    },
-    "R9-309N": {
-      "name": "- End Slow Zone",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-309n-end-slow-zone",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-309_thumb.gif"
       }
     },
     "R9-239N": {
@@ -6873,13 +6824,6 @@
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-230n-vehicles-over-both-43m-high-and-19m-long",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-230_thumb.gif"
-      }
-    },
-    "R9-233N": {
-      "name": "- Narrow Lanes",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-233n-narrow-lanes",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-233_thumb.gif"
       }
     },
     "R9-234N": {
@@ -7129,13 +7073,6 @@
         "D": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/rm4-212n_d_thumb.gif"
       }
     },
-    "R4-1-1N": {
-      "name": "- Town Entry Gateway Treatment (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r4-1-1n-town-entry-gateway-treatment-example-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r4-1-1n_thumb.gif"
-      }
-    },
     "R4-241N": {
       "name": "- End Local Traffic Area",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r4-241n-end-local-traffic-area",
@@ -7143,25 +7080,11 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r4-241n_thumb.gif"
       }
     },
-    "R5-201-1N": {
-      "name": "- Except As Signed (for use with R5-61-1, R5-61-2, R5-61-3)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-201-1n-except-as-signed-for-use-r5-61-1-r5-61-2-r5",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-201-1_thumb.gif"
-      }
-    },
     "R5-201-2N": {
       "name": "- Except As Signed (for use with R5-60-1, R5-60-2, R5-60-3)",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-201-2n-except-as-signed-for-use-r5-60-1-r5-60-2-r5",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-201-2_thumb.gif"
-      }
-    },
-    "R5-207-1N": {
-      "name": "- Unless Other Parking Laws Apply (for use with R5-61-4n & R5-62-4n)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-207-1n-unless-other-parking-laws-apply-for-use-r5",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-207-1_thumb.gif"
       }
     },
     "R5-207-2N": {
@@ -7241,20 +7164,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-40-1_thumb.gif"
       }
     },
-    "R5-405N": {
-      "name": "- No Stopping Taxis Excepted (Limit 1 Minute)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-405n-no-stopping-taxis-excepted-limit-1-minute",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-405_thumb.gif"
-      }
-    },
-    "R5-406N": {
-      "name": "- Taxi Pick-Up Point",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-406n-taxi-pick-up-point",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-406_thumb.gif"
-      }
-    },
     "R5-407N": {
       "name": "- No Stopping (Top plate) ",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-407n-no-stopping-top-plate",
@@ -7262,88 +7171,11 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-407_thumb.gif"
       }
     },
-    "R5-41-2N": {
-      "name": "- No parking (symbolic) (with times) Vehicles With Applicants For Driving Tests Excepted",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-41-2n-no-parking-symbolic-times-vehicles-applicants",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-41-2_thumb.gif"
-      }
-    },
-    "R5-410N": {
-      "name": "- No Stopping Area (Special for Pitt St Mall Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-410n-no-stopping-area-special-for-pitt-st-mall-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-410_thumb.gif"
-      }
-    },
-    "R5-411N": {
-      "name": "- End No Stopping Area (Special for use in Pitt St Mall Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-411n-end-no-stopping-area-special-for-use-pitt-st",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-411_thumb.gif"
-      }
-    },
-    "R5-445N": {
-      "name": "- No parking (symbolic) Wedding Or Funeral Vehicles Excepted (L,R,L+R arrows) ",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-445n-no-parking-symbolic-wedding-or-funeral",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-445_thumb.gif"
-      }
-    },
-    "R5-446N": {
-      "name": "- No parking (symbolic) Wedding Or Funeral Vehicles Excepted (L,R,L+R arrows) ",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-446n-no-parking-symbolic-wedding-or-funeral",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-446_thumb.gif"
-      }
-    },
-    "R5-447N": {
-      "name": "- No Parking (Authorised Car Share Vehicles Excepted Zone Xxxxx) (Left, Left/Right and Right Arrows)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-447n-no-parking-authorised-car-share-vehicles",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-447_thumb.gif"
-      }
-    },
-    "R5-450N": {
-      "name": "- No Centre Parking",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-450n-no-centre-parking",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-450_thumb.gif"
-      }
-    },
-    "R5-500N": {
-      "name": "- Angle Parking (Rear to Curb) (L, LR & R Arrows)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-500n-angle-parking-rear-to-curb-l-lr-r-arrows",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-500_thumb.gif"
-      }
-    },
-    "R5-501N": {
-      "name": "- Angle Parking (Front to Curb) (L, LR & R Arrows)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-501n-angle-parking-front-to-curb-l-lr-r-arrows",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-501_thumb.gif"
-      }
-    },
-    "R5-505N": {
-      "name": "- Angle Parking (Rear to Curb) (L, LR & R Arrows)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-505n-angle-parking-rear-to-curb-l-lr-r-arrows",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-505_thumb.gif"
-      }
-    },
     "R5-541N": {
       "name": "- Restricted Parking Area / Park In Bays Only",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-541n-restricted-parking-area-park-bays-only",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-541_thumb.gif"
-      }
-    },
-    "R5-552N": {
-      "name": "Bus Parking Area P (Bus Symbolic) Only",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-552n-bus-parking-area-p-bus-symbolic-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r5-552n_0.gif"
       }
     },
     "R5-545-1N": {
@@ -7358,20 +7190,6 @@
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-545-2n-kings-cross-road-tow-away-area-example-only",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-545-2_thumb.gif"
-      }
-    },
-    "R5-551N": {
-      "name": "- Long Or Heavy Vehicles Permitted To Stop Longer Than 1 Hour (Times)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-551n-long-or-heavy-vehicles-permitted-to-stop",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-551_thumb.gif"
-      }
-    },
-    "R5-60-4N": {
-      "name": "- Special Event Parking Area _p - Major entry (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-60-4n-special-event-parking-area-p-major-entry",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-60-4_thumb.gif"
       }
     },
     "R5-601N": {
@@ -7699,13 +7517,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-605_thumb.gif"
       }
     },
-    "R5-61-4N": {
-      "name": "- Special Event Parking Area _p - Minor entry (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-4n-special-event-parking-area-p-minor-entry",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-61-4_thumb.gif"
-      }
-    },
     "R5-560N": {
       "name": "- Clearway ",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-560n-clearway",
@@ -7725,13 +7536,6 @@
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-4-parking-4-hours-examples-only",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-4_thumb.gif"
-      }
-    },
-    "R5-402N": {
-      "name": "- No Stopping (with times) ",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-402n-no-stopping-times",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-402_thumb.gif"
       }
     },
     "R5-403N": {
@@ -7790,13 +7594,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-400_thumb.gif"
       }
     },
-    "R5-41-6N": {
-      "name": "- No Parking (Symbolic) Vehicles Over 12(t) GVM Excepted (Left/Left-Right/Right Arrow)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-41-6n-no-parking-symbolic-vehicles-over-12t-gvm",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-41-6n_thumb.gif"
-      }
-    },
     "R5-41-3N": {
       "name": "- No Parking (symbolic) (with Times) Motor Vehicles Under 4.5t Excepted (Left,Right & Both arrows)",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-41-3n-no-parking-symbolic-times-motor-vehicles",
@@ -7823,48 +7620,6 @@
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-40-2n-no-parking-symbolic-electric-vehicles",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-40-2n_thumb.gif"
-      }
-    },
-    "R5-1-10N": {
-      "name": "- Parking (1p-10p) Times (Various) Mon-Fri Electric Vehicles Only (Left, Right or Repeater) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-10n-parking-1p-10p-times-various-mon-fri-electric",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-10n_thumb.gif"
-      }
-    },
-    "R5-1-11N": {
-      "name": "- Parking (1p-10p) Times (Various) Mon-Fri Sat-Sun Electric Vehicles Only (Left, Right or Repeater) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-11n-parking-1p-10p-times-various-mon-fri-sat-sun",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-11n_thumb.gif"
-      }
-    },
-    "R5-1-13N": {
-      "name": "- Parking (1p-10p) Times (Various) Mon-Fri Sat-Sun Electric Vehicles Only While Charging (Left, Right or Repeater) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-13n-parking-1p-10p-times-various-mon-fri-sat-sun",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-13n_thumb.gif"
-      }
-    },
-    "R5-1-14N": {
-      "name": "- Parking (1p-10p) (Meter) Times (Various) Mon-Fri Electric Vehicles Only While Charging (Left, Right or Repeater) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-14n-parking-1p-10p-meter-times-various-mon-fri",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-14n_thumb.gif"
-      }
-    },
-    "R5-1-15N": {
-      "name": "- Parking (1p-10p) (Meter) Times (Various) Mon-Fri Sat-Sun Electric Vehicles Only While Charging (Left, Right or Repeater) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-15n-parking-1p-10p-meter-times-various-mon-fri",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-15n_thumb.gif"
-      }
-    },
-    "R5-1-12N": {
-      "name": "- Parking (1p-10p) Times (Various) Mon-Fri Electric Vehicles Only While Charging (Left, Right or Repeater) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-12n-parking-1p-10p-times-various-mon-fri-electric",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-12n_thumb.gif"
       }
     },
     "R6-6-1N": {
@@ -7909,13 +7664,6 @@
       "urls": {
         "L": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-392n_l_thumb.gif",
         "R": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-392n_r_thumb.gif"
-      }
-    },
-    "G9-15": {
-      "name": "- Form 1 Lane ",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-15-form-1-lane",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-15_thumb.gif"
       }
     },
     "G9-16": {
@@ -8031,13 +7779,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-9n_vms_thumb.gif"
       }
     },
-    "G9-57": {
-      "name": "- Watch For Bicycles ",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-57-watch-for-bicycles",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-57_thumb.gif"
-      }
-    },
     "G9-46": {
       "name": "- Very Steep Climb x(km) Ahead Not Suitable For Trucks Buses Caravans Trailers",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-46-very-steep-climb-xkm-ahead-not-suitable-for",
@@ -8101,49 +7842,6 @@
       "urls": {
         "L": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-56_l_thumb.gif",
         "R": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-56_r_thumb.gif"
-      }
-    },
-    "G9-58": {
-      "name": "- Cyclists Dismount",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-58-cyclists-dismount",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-58_thumb.gif"
-      }
-    },
-    "G9-60": {
-      "name": "- All Bicycles",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-60-all-bicycles",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-60_thumb.gif"
-      }
-    },
-    "G9-62": {
-      "name": "- Bicycle (symbol) Use Ramp (left angled arrow)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-62-bicycle-symbol-use-ramp-left-angled-arrow",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-62_thumb.gif"
-      }
-    },
-    "G9-63": {
-      "name": "- Bicycle (symbol) Cross Here With Care (left arrow)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-63l-bicycle-symbol-cross-here-care-left-arrow",
-      "urls": {
-        "L": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-63_l_thumb.gif",
-        "R": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-63_r_thumb.gif"
-      }
-    },
-    "G9-64": {
-      "name": "- Bicycles Use Left Shoulder",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-64-bicycles-use-left-shoulder",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-64_thumb.gif"
-      }
-    },
-    "G9-65": {
-      "name": "- Bicycle (symbol) Must Exit (left angled arrow)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-65-bicycle-symbol-must-exit-left-angled-arrow",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-65_thumb.gif"
       }
     },
     "G9-67-1": {
@@ -8230,42 +7928,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r1-4n_thumb.gif"
       }
     },
-    "R2-4N": {
-      "name": "No Entry",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-4n-no-entry",
-      "urls": {
-        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-4N.svg"
-      }
-    },
-    "R2-5N": {
-      "name": "No U Turn",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-5n-no-u-turn",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r2-5n_thumb.gif"
-      }
-    },
-    "R2-6N": {
-      "name": "- No Right Turn",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-6nr-no-right-turn",
-      "urls": {
-        "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-6N-R.svg",
-        "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-6N-L.svg"
-      }
-    },
-    "R2-9-1N": {
-      "name": "Right 2 Lanes Must Turn Right",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-9-1n-right-2-lanes-must-turn-right",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r2-9-1n_thumb.gif"
-      }
-    },
-    "R2-16N": {
-      "name": "- Turn Left At Any Time With Care",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-16n-turn-left-at-any-time-care",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r2-16n_thumb.gif"
-      }
-    },
     "RM2-14": {
       "name": "- All Traffic (Left Symbolic) Only (Mms Insert - To Be used on Multi Message Sign panels Only)",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/rm2-14la-all-traffic-left-symbolic-only-mms-insert-to",
@@ -8324,20 +7986,6 @@
         "A": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/rm2-7_a_thumb.gif",
         "B": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/rm2-7_b_thumb.gif",
         "C": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/rm2-7_c_thumb.gif"
-      }
-    },
-    "R3-202N": {
-      "name": "Children Crossing (hand held crossing bat)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r3-202n-children-crossing-hand-held-crossing-bat",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r3-202n_thumb.gif"
-      }
-    },
-    "R3-213N": {
-      "name": "Children Stop Crossing Bat",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r3-213n-children-stop-crossing-bat",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r3-213n_thumb.gif"
       }
     },
     "R4-246N": {
@@ -8494,13 +8142,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r4-236-1n_thumb.gif"
       }
     },
-    "R4-212N": {
-      "name": "- Speed limit (as required) Road Work",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r4-212n-speed-limit-as-required-road-work",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r4-212n_thumb.gif"
-      }
-    },
     "R4-9": {
       "name": "End School Zone",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r4-9-end-school-zone",
@@ -8614,20 +8255,6 @@
         "R": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-321n_r_thumb.gif"
       }
     },
-    "G9-87-1": {
-      "name": "- Advanced Buses Prohibited (Symbolic)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-87-1-advanced-buses-prohibited-symbolic",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-87-1_thumb.gif"
-      }
-    },
-    "G9-87-2N": {
-      "name": "- Advanced Trucks Prohibited (Symbolic)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-87-2n-advanced-trucks-prohibited-symbolic",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-87-2_thumb.gif"
-      }
-    },
     "G9-291-1N": {
       "name": "- Reduce Noise - Please Limit Compression Braking In Residential Areas",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-291-1n-reduce-noise-please-limit-compression",
@@ -8647,13 +8274,6 @@
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-237n-do-not-queue-across-intersection",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-237n_thumb.gif"
-      }
-    },
-    "G9-245N": {
-      "name": "- Left Turn Watch For Cyclists",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-245n-left-turn-watch-for-cyclists",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-245n_thumb.gif"
       }
     },
     "G9-256N": {
@@ -10058,13 +9678,6 @@
         "L": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g7-214n_l_thumb.gif"
       }
     },
-    "G7-276N": {
-      "name": "- Bicycle Parking",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g7-276n-bicycle-parking",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g7-276n_thumb.gif"
-      }
-    },
     "G7-277N": {
       "name": "- Caravan Parking (Left Arrow) 200m",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g7-277nl-caravan-parking-left-arrow-200m",
@@ -10897,13 +10510,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-6_thumb.gif"
       }
     },
-    "R5-60-1N": {
-      "name": "- Area (name) Parking Area _p Coupon (specified times) - Major entry (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-60-1n-area-name-parking-area-p-coupon-specified",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-60-1_thumb.gif"
-      }
-    },
     "R5-60-2N": {
       "name": "- Area (name) Parking Area _p Meter (specified times) - Major entry (Example Only)",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-60-2n-area-name-parking-area-p-meter-specified",
@@ -10916,104 +10522,6 @@
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-60-3n-area-name-parking-area-p-ticket-specified",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-60-3_thumb.gif"
-      }
-    },
-    "R5-60": {
-      "name": "- Area (name) Parking Area _p (specified times) - Major entry (example only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-60-area-name-parking-area-p-specified-times-major",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-60-5_thumb.gif"
-      }
-    },
-    "R5-61-1N": {
-      "name": "- Area (name) Parking Area _p Coupon (specified times) - Minor entry (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-1n-area-name-parking-area-p-coupon-specified",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r5-61-1.gif"
-      }
-    },
-    "R5-61-2N": {
-      "name": "- Area (name) Parking Area _p Meter (specified times) - Minor entry (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-2n-area-name-parking-area-p-meter-specified",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-61-2_thumb.gif"
-      }
-    },
-    "R5-61-3N": {
-      "name": "- Area (name) Parking Area _p Ticket (specified times) - Minor entry (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-3n-area-name-parking-area-p-ticket-specified",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-61-3_thumb.gif"
-      }
-    },
-    "R5-61-5N": {
-      "name": "- Area (name) Parking Area _p (specified times) - Minor entry (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-5n-area-name-parking-area-p-specified-times",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-61-5_thumb.gif"
-      }
-    },
-    "R5-62-1N": {
-      "name": "- Parking Area _p Coupon (specified times) - repeater (Internal) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-1n-parking-area-p-coupon-specified-times",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-1_thumb.gif"
-      }
-    },
-    "R5-62-2N": {
-      "name": "- Parking Area _p Meter (specified times) - Repeater (Internal) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-2n-parking-area-p-meter-specified-times-repeater",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-2_thumb.gif"
-      }
-    },
-    "R5-62-3N": {
-      "name": "- Parking Area _p Ticket (specified times) - Repeater (Internal) (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-3n-parking-area-p-ticket-specified-times",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-3_thumb.gif"
-      }
-    },
-    "R5-62-4N": {
-      "name": "- Special Event Parking - Repeater (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-4n-special-event-parking-repeater-example-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-4_thumb.gif"
-      }
-    },
-    "R5-62-5N": {
-      "name": "- Parking Area _p (specified times) - Repeater (Internal) (example only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-5n-parking-area-p-specified-times-repeater",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-5_thumb.gif"
-      }
-    },
-    "R5-63-1N": {
-      "name": "- End _p Coupon Area Parking (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-63-1n-end-p-coupon-area-parking-example-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-63-1_thumb.gif"
-      }
-    },
-    "R5-63-2N": {
-      "name": "- End _p Meter Area Parking (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-63-2n-end-p-meter-area-parking-example-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-63-2_thumb.gif"
-      }
-    },
-    "R5-63-3N": {
-      "name": "- Area Parking End _p Ticket (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-63-3n-area-parking-end-p-ticket-example-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-63-3_thumb.gif"
-      }
-    },
-    "R5-63-4N": {
-      "name": "- End _p Special Event Parking Area (Example Only)",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-63-4n-end-p-special-event-parking-area-example-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-63-4_thumb.gif"
       }
     },
     "R5-7": {
@@ -11607,13 +11115,6 @@
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r2-19-1n.gif"
       }
     },
-    "R5-553N": {
-      "name": "Truck Parking Area P (Truck Symbolic) Only",
-      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-553n-truck-parking-area-p-truck-symbolic-only",
-      "urls": {
-        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r5-553n_0.gif"
-      }
-    },
     "G3-8-4": {
       "name": "- Advanced Street Name - Long Double Arrow (Not Used in NSW) Use G1-204n",
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g3-8-4-advanced-street-name-long-double-arrow-not-used",
@@ -11654,6 +11155,519 @@
       "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g7-237-1n-emergency-information-tune-to-abc-logo-xxxx",
       "urls": {
         "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/g7-237-1n.png"
+      }
+    },
+    "R9-225N": {
+      "name": "- Vehicles Under (x.x)m Long Excepted",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-225n-vehicles-under-xxm-long-excepted",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/r9-225n.png"
+      }
+    },
+    "G9-63": {
+      "name": "- Bicycle (symbol) Cross Here With Care (right arrow)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-63r-bicycle-symbol-cross-here-care-right-arrow",
+      "urls": {
+        "R": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-63_r_thumb.gif",
+        "L": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-63_l_thumb.gif"
+      }
+    },
+    "G9-65": {
+      "name": "- Bicycle (symbol) Must Exit (left angled arrow)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-65-bicycle-symbol-must-exit-left-angled-arrow",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-65_thumb.gif"
+      }
+    },
+    "G9-62": {
+      "name": "- Bicycle (symbol) Use Ramp (left angled arrow)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-62-bicycle-symbol-use-ramp-left-angled-arrow",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-62_thumb.gif"
+      }
+    },
+    "G9-64": {
+      "name": "- Bicycles Use Left Shoulder",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-64-bicycles-use-left-shoulder",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-64_thumb.gif"
+      }
+    },
+    "G9-58": {
+      "name": "- Cyclists Dismount",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-58-cyclists-dismount",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-58_thumb.gif"
+      }
+    },
+    "G7-276N": {
+      "name": "- Bicycle Parking",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g7-276n-bicycle-parking",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g7-276n_thumb.gif"
+      }
+    },
+    "G9-150-2N": {
+      "name": "- End Tow Away Area (Symbolic) 24hrs",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-150-2n-end-tow-away-area-symbolic-24hrs",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/G9-150-2n.PNG"
+      }
+    },
+    "G9-150-1N": {
+      "name": "- Tow Away Area (Symbolic) 24hrs",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-150-1n-tow-away-area-symbolic-24hrs",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2024/G9-150-1n.PNG"
+      }
+    },
+    "G9-87-2": {
+      "name": "- Advance Vehicle Prohibition (Trucks) (Symbolic)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-87-2-advance-vehicle-prohibition-trucks-symbolic",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-87-2_thumb.gif"
+      }
+    },
+    "G9-87-1": {
+      "name": "- Advance Vehicle Prohibition (Buses) (Symbolic)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-87-1-advance-vehicle-prohibition-buses-symbolic",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-87-1_thumb.gif"
+      }
+    },
+    "G9-57": {
+      "name": "- Watch For Bicycles ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-57-watch-for-bicycles",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-57_thumb.gif"
+      }
+    },
+    "R5-551N": {
+      "name": "- Long Or Heavy Vehicles Permitted To Stop Longer Than 1 Hour (Times)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-551n-long-or-heavy-vehicles-permitted-to-stop",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-551_thumb.gif"
+      }
+    },
+    "G9-245N": {
+      "name": "- Left Turn Watch For Cyclists",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-245n-left-turn-watch-for-cyclists",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-245n_thumb.gif"
+      }
+    },
+    "R5-402N": {
+      "name": "- No Stopping (with times) ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-402n-no-stopping-times",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-402_thumb.gif"
+      }
+    },
+    "G9-60": {
+      "name": "- All Bicycles",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-60-all-bicycles",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-60_thumb.gif"
+      }
+    },
+    "G9-15": {
+      "name": "- Form 1 Lane ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/g9-15-form-1-lane",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/g9-15_thumb.gif"
+      }
+    },
+    "R5-41-6N": {
+      "name": "- No Parking (Symbolic) Vehicles Over 12(t) GVM Excepted (Left/Left-Right/Right Arrow)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-41-6n-no-parking-symbolic-vehicles-over-12t-gvm",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-41-6n_thumb.gif"
+      }
+    },
+    "R5-411N": {
+      "name": "- End No Stopping Area (Special for use in Pitt St Mall Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-411n-end-no-stopping-area-special-for-use-pitt-st",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-411_thumb.gif"
+      }
+    },
+    "R5-410N": {
+      "name": "- No Stopping Area (Special for Pitt St Mall Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-410n-no-stopping-area-special-for-pitt-st-mall-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-410_thumb.gif"
+      }
+    },
+    "R3-202N": {
+      "name": "Children Crossing (hand held crossing bat)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r3-202n-children-crossing-hand-held-crossing-bat",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r3-202n_thumb.gif"
+      }
+    },
+    "R3-213N": {
+      "name": "Children Stop Crossing Bat",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r3-213n-children-stop-crossing-bat",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r3-213n_thumb.gif"
+      }
+    },
+    "R9-306N": {
+      "name": "- Bicycles Only",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-306n-bicycles-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-306_thumb.gif"
+      }
+    },
+    "R9-308N": {
+      "name": "- Slow Zone ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-308n-slow-zone",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-308_thumb.gif"
+      }
+    },
+    "R9-205N": {
+      "name": "- Angle Parking Plate (Variable) Angle; Front/Rear To Kerb; Vehicles Under 6m Only",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-205n-angle-parking-plate-variable-angle-frontrear",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-205n_thumb.gif"
+      }
+    },
+    "R9-213N": {
+      "name": "- High Pedestrian Activity ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-213n-high-pedestrian-activity",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-213n_thumb.gif"
+      }
+    },
+    "R9-309N": {
+      "name": "- End Slow Zone",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-309n-end-slow-zone",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-309_thumb.gif"
+      }
+    },
+    "T5-209N": {
+      "name": "- Lane Divides (Symbolic)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/t5-209n-lane-divides-symbolic",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/t5-209n_thumb.gif"
+      }
+    },
+    "R5-450N": {
+      "name": "- No Centre Parking",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-450n-no-centre-parking",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-450_thumb.gif"
+      }
+    },
+    "R9-233N": {
+      "name": "- Narrow Lanes",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r9-233n-narrow-lanes",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r9-233_thumb.gif"
+      }
+    },
+    "R5-41-2N": {
+      "name": "- No parking (symbolic) (with times) Vehicles With Applicants For Driving Tests Excepted",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-41-2n-no-parking-symbolic-times-vehicles-applicants",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-41-2_thumb.gif"
+      }
+    },
+    "R2-6N": {
+      "name": "- No Right Turn",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-6nr-no-right-turn",
+      "urls": {
+        "R": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-6N-R.svg",
+        "L": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-6N-L.svg"
+      }
+    },
+    "R2-16N": {
+      "name": "- Turn Left At Any Time With Care",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-16n-turn-left-at-any-time-care",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r2-16n_thumb.gif"
+      }
+    },
+    "R2-4N": {
+      "name": "No Entry",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-4n-no-entry",
+      "urls": {
+        "": "https://en.wikipedia.org/wiki/Special:FilePath/File:Australia_road_sign_R2-4N.svg"
+      }
+    },
+    "R2-9-1N": {
+      "name": "Right 2 Lanes Must Turn Right",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-9-1n-right-2-lanes-must-turn-right",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r2-9-1n_thumb.gif"
+      }
+    },
+    "R2-5N": {
+      "name": "No U Turn",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r2-5n-no-u-turn",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r2-5n_thumb.gif"
+      }
+    },
+    "R4-212N": {
+      "name": "- Speed limit (as required) Road Work",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r4-212n-speed-limit-as-required-road-work",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r4-212n_thumb.gif"
+      }
+    },
+    "R5-406N": {
+      "name": "- Taxi Pick-Up Point",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-406n-taxi-pick-up-point",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-406_thumb.gif"
+      }
+    },
+    "R4-1-1N": {
+      "name": "- Town Entry Gateway Treatment (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r4-1-1n-town-entry-gateway-treatment-example-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r4-1-1n_thumb.gif"
+      }
+    },
+    "R5-1-15N": {
+      "name": "- Parking (1p-10p) (Meter) Times (Various) Mon-Fri Sat-Sun Electric Vehicles Only While Charging (Left, Right or Repeater) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-15n-parking-1p-10p-meter-times-various-mon-fri",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-15n_thumb.gif"
+      }
+    },
+    "R5-1-13N": {
+      "name": "- Parking (1p-10p) Times (Various) Mon-Fri Sat-Sun Electric Vehicles Only While Charging (Left, Right or Repeater) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-13n-parking-1p-10p-times-various-mon-fri-sat-sun",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-13n_thumb.gif"
+      }
+    },
+    "R5-1-14N": {
+      "name": "- Parking (1p-10p) (Meter) Times (Various) Mon-Fri Electric Vehicles Only While Charging (Left, Right or Repeater) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-14n-parking-1p-10p-meter-times-various-mon-fri",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-14n_thumb.gif"
+      }
+    },
+    "R5-1-11N": {
+      "name": "- Parking (1p-10p) Times (Various) Mon-Fri Sat-Sun Electric Vehicles Only (Left, Right or Repeater) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-11n-parking-1p-10p-times-various-mon-fri-sat-sun",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-11n_thumb.gif"
+      }
+    },
+    "R5-1-10N": {
+      "name": "- Parking (1p-10p) Times (Various) Mon-Fri Electric Vehicles Only (Left, Right or Repeater) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-10n-parking-1p-10p-times-various-mon-fri-electric",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-10n_thumb.gif"
+      }
+    },
+    "R5-1-12N": {
+      "name": "- Parking (1p-10p) Times (Various) Mon-Fri Electric Vehicles Only While Charging (Left, Right or Repeater) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-1-12n-parking-1p-10p-times-various-mon-fri-electric",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-1-12n_thumb.gif"
+      }
+    },
+    "R5-447N": {
+      "name": "- No Parking (Authorised Car Share Vehicles Excepted Zone Xxxxx) (Left, Left/Right and Right Arrows)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-447n-no-parking-authorised-car-share-vehicles",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-447_thumb.gif"
+      }
+    },
+    "R5-501N": {
+      "name": "- Angle Parking (Front to Curb) (L, LR & R Arrows)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-501n-angle-parking-front-to-curb-l-lr-r-arrows",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-501_thumb.gif"
+      }
+    },
+    "R5-505N": {
+      "name": "- Angle Parking (Rear to Curb) (L, LR & R Arrows)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-505n-angle-parking-rear-to-curb-l-lr-r-arrows",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-505_thumb.gif"
+      }
+    },
+    "R5-500N": {
+      "name": "- Angle Parking (Rear to Curb) (L, LR & R Arrows)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-500n-angle-parking-rear-to-curb-l-lr-r-arrows",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-500_thumb.gif"
+      }
+    },
+    "R5-446N": {
+      "name": "- No parking (symbolic) Wedding Or Funeral Vehicles Excepted (L,R,L+R arrows) ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-446n-no-parking-symbolic-wedding-or-funeral",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-446_thumb.gif"
+      }
+    },
+    "R5-445N": {
+      "name": "- No parking (symbolic) Wedding Or Funeral Vehicles Excepted (L,R,L+R arrows) ",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-445n-no-parking-symbolic-wedding-or-funeral",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-445_thumb.gif"
+      }
+    },
+    "R5-405N": {
+      "name": "- No Stopping Taxis Excepted (Limit 1 Minute)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-405n-no-stopping-taxis-excepted-limit-1-minute",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-405_thumb.gif"
+      }
+    },
+    "R5-63-3N": {
+      "name": "- Area Parking End _p Ticket (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-63-3n-area-parking-end-p-ticket-example-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-63-3_thumb.gif"
+      }
+    },
+    "R5-553N": {
+      "name": "Truck Parking Area P (Truck Symbolic) Only",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-553n-truck-parking-area-p-truck-symbolic-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r5-553n_0.gif"
+      }
+    },
+    "R5-552N": {
+      "name": "Bus Parking Area P (Bus Symbolic) Only",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-552n-bus-parking-area-p-bus-symbolic-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r5-552n_0.gif"
+      }
+    },
+    "R5-60-4N": {
+      "name": "- Special Event Parking Area _p - Major entry (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-60-4n-special-event-parking-area-p-major-entry",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-60-4_thumb.gif"
+      }
+    },
+    "R5-61-4N": {
+      "name": "- Special Event Parking Area _p - Minor entry (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-4n-special-event-parking-area-p-minor-entry",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-61-4_thumb.gif"
+      }
+    },
+    "R5-63-4N": {
+      "name": "- End _p Special Event Parking Area (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-63-4n-end-p-special-event-parking-area-example-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-63-4_thumb.gif"
+      }
+    },
+    "R5-63-2N": {
+      "name": "- End _p Meter Area Parking (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-63-2n-end-p-meter-area-parking-example-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-63-2_thumb.gif"
+      }
+    },
+    "R5-62-3N": {
+      "name": "- Parking Area _p Ticket (specified times) - Repeater (Internal) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-3n-parking-area-p-ticket-specified-times",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-3_thumb.gif"
+      }
+    },
+    "R5-62-5N": {
+      "name": "- Parking Area _p (specified times) - Repeater (Internal) (example only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-5n-parking-area-p-specified-times-repeater",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-5_thumb.gif"
+      }
+    },
+    "R5-63-1N": {
+      "name": "- End _p Coupon Area Parking (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-63-1n-end-p-coupon-area-parking-example-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-63-1_thumb.gif"
+      }
+    },
+    "R5-60-1N": {
+      "name": "- Area (name) Parking Area _p Coupon (specified times) - Major entry (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-60-1n-area-name-parking-area-p-coupon-specified",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-60-1_thumb.gif"
+      }
+    },
+    "R5-61-1N": {
+      "name": "- Area (name) Parking Area _p Coupon (specified times) - Minor entry (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-1n-area-name-parking-area-p-coupon-specified",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/2023/r5-61-1.gif"
+      }
+    },
+    "R5-61-3N": {
+      "name": "- Area (name) Parking Area _p Ticket (specified times) - Minor entry (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-3n-area-name-parking-area-p-ticket-specified",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-61-3_thumb.gif"
+      }
+    },
+    "R5-61-2N": {
+      "name": "- Area (name) Parking Area _p Meter (specified times) - Minor entry (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-2n-area-name-parking-area-p-meter-specified",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-61-2_thumb.gif"
+      }
+    },
+    "R5-62-1N": {
+      "name": "- Parking Area _p Coupon (specified times) - repeater (Internal) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-1n-parking-area-p-coupon-specified-times",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-1_thumb.gif"
+      }
+    },
+    "R5-62-2N": {
+      "name": "- Parking Area _p Meter (specified times) - Repeater (Internal) (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-2n-parking-area-p-meter-specified-times-repeater",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-2_thumb.gif"
+      }
+    },
+    "R5-207-1N": {
+      "name": "- Unless Other Parking Laws Apply (for use with R5-61-4n & R5-62-4n)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-207-1n-unless-other-parking-laws-apply-for-use-r5",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-207-1_thumb.gif"
+      }
+    },
+    "R5-62-4N": {
+      "name": "- Special Event Parking - Repeater (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-62-4n-special-event-parking-repeater-example-only",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-62-4_thumb.gif"
+      }
+    },
+    "R5-61-5N": {
+      "name": "- Area (name) Parking Area _p (specified times) - Minor entry (Example Only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-61-5n-area-name-parking-area-p-specified-times",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-61-5_thumb.gif"
+      }
+    },
+    "R5-60": {
+      "name": "- Area (name) Parking Area _p (specified times) - Major entry (example only)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-60-area-name-parking-area-p-specified-times-major",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-60-5_thumb.gif"
+      }
+    },
+    "R5-201-1N": {
+      "name": "- Except As Signed (for use with R5-61-1n, R5-61-2n, R5-61-3n)",
+      "docs": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/traffic-signs/r5-201-1n-except-as-signed-for-use-r5-61-1n-r5-61-2n",
+      "urls": {
+        "": "https://www.transport.nsw.gov.au/sites/default/files/media/images/rww/business-industry/partners-suppliers/signage/trafficsigns/images/r5-201-1_thumb.gif"
       }
     },
     "NSW:LIGHTRAIL:FIXEDRED": {
